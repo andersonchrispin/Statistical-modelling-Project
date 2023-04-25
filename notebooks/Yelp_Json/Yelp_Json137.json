@@ -1,0 +1,859 @@
+{
+      "businesses": [
+            {
+                  "id": "i_WEjpxCUCngB6C5tYZB-A",
+                  "alias": "la-grotte-des-fromages-saint-leonard",
+                  "name": "La Grotte Des Fromages",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/471SNpYajK_RdRFPC9gQJg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-grotte-des-fromages-saint-leonard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 15,
+                  "categories": [
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "delicatessen",
+                              "title": "Delicatessen"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.58026,
+                        "longitude": -73.59595
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "4919 Rue Jarry E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1R 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4919 Rue Jarry E",
+                              "Saint-Leonard, QC H1R 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143212733",
+                  "display_phone": "+1 514-321-2733",
+                  "distance": 722.7194596121525
+            },
+            {
+                  "id": "cQqFF-79UNRxVg7vNeOdag",
+                  "alias": "rayan-montr\u00e9al",
+                  "name": "Rayan",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ApoaSUkJdUFINoPCU0fAdg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/rayan-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 5,
+                  "categories": [
+                        {
+                              "alias": "seafood",
+                              "title": "Seafood"
+                        },
+                        {
+                              "alias": "seafoodmarkets",
+                              "title": "Seafood Markets"
+                        },
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5952422746746,
+                        "longitude": -73.5827325500052
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "8090 Boulevard Langelier",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H1P 2B9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "8090 Boulevard Langelier",
+                              "Montreal, QC H1P 2B9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143215050",
+                  "display_phone": "+1 514-321-5050",
+                  "distance": 1382.216193056813
+            },
+            {
+                  "id": "rmkVyHSMtNGCCD_9_DJ_bg",
+                  "alias": "du-boucher-\u00e0-la-table-saint-l\u00e9onard",
+                  "name": "Du Boucher \u00c0 La Table",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5G9CjnaU2TN-DToocm43hg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/du-boucher-%C3%A0-la-table-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 17,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "steak",
+                              "title": "Steakhouses"
+                        },
+                        {
+                              "alias": "butcher",
+                              "title": "Butcher"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.58026,
+                        "longitude": -73.59595
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4919 Rue Jarry E",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4919 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143212733",
+                  "display_phone": "+1 514-321-2733",
+                  "distance": 722.7194596121525
+            },
+            {
+                  "id": "v59MRpqwrNUjjxW3ovlEYQ",
+                  "alias": "caf\u00e9-milano-saint-l\u00e9onard-2",
+                  "name": "Caf\u00e9 Milano",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ocE3n3bg6StQBx4u_hVzuA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/caf%C3%A9-milano-saint-l%C3%A9onard-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 56,
+                  "categories": [
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "salad",
+                              "title": "Salad"
+                        },
+                        {
+                              "alias": "coffee",
+                              "title": "Coffee & Tea"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.582119541388,
+                        "longitude": -73.5928887048935
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "5188 Rue Jarry E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 1Y4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5188 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 1Y4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15148529452",
+                  "display_phone": "+1 514-852-9452",
+                  "distance": 509.33715913690236
+            },
+            {
+                  "id": "hfzkyrcsEaRcQZoaTAt8ww",
+                  "alias": "restaurant-phuket-saint-leonard-2",
+                  "name": "Restaurant Phuket",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lQO-RNqyN_WEyJ9BwqlSEw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-phuket-saint-leonard-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 23,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        },
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5774199,
+                        "longitude": -73.59815
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "4673 Jarry Rue E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1R 1X6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4673 Jarry Rue E",
+                              "Saint-Leonard, QC H1R 1X6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147212888",
+                  "display_phone": "+1 514-721-2888",
+                  "distance": 1025.8457673968703
+            },
+            {
+                  "id": "MFqmAmc-AsVxbyVpXwI-rQ",
+                  "alias": "gallo-nero-saint-leonard",
+                  "name": "Gallo Nero",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5LTjbFajR_Fe3KWKQky30w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/gallo-nero-saint-leonard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 8,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.58152,
+                        "longitude": -73.5934
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5138 Rue Jarry E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1R 1Y4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5138 Rue Jarry E",
+                              "Saint-Leonard, QC H1R 1Y4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15149559111",
+                  "display_phone": "+1 514-955-9111",
+                  "distance": 552.7269085681598
+            },
+            {
+                  "id": "jwhnK2nkwD0Q1hWeCPhT9g",
+                  "alias": "ristorante-di-menna-saint-l\u00e9onard",
+                  "name": "Ristorante Di Menna",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VyCy2flHKhHF3H09Xse42w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/ristorante-di-menna-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 13,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.5934101,
+                        "longitude": -73.5833766
+                  },
+                  "transactions": [],
+                  "price": "$$$$",
+                  "location": {
+                        "address1": "6313 Rue Jarry E",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1P 1W1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "6313 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1P 1W1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143264200",
+                  "display_phone": "+1 514-326-4200",
+                  "distance": 1223.0034893970173
+            },
+            {
+                  "id": "RLOj1H-dqEuzi4xdliZ8HQ",
+                  "alias": "luce-montr\u00e9al",
+                  "name": "Luce",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3jHR0odoCYrNvyWnsxDldw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/luce-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.58175,
+                        "longitude": -73.59319
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5152 Rue Jarry E",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H1R 1Y4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5152 Rue Jarry E",
+                              "Montreal, QC H1R 1Y4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143245823",
+                  "display_phone": "+1 514-324-5823",
+                  "distance": 535.4837823339049
+            },
+            {
+                  "id": "V19kI9VsJKQKALhbGSvcKQ",
+                  "alias": "costa-del-sole-saint-l\u00e9onard",
+                  "name": "Costa Del Sole",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S7Lf98YYZiKcqOqkXwakqQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/costa-del-sole-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "seafood",
+                              "title": "Seafood"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5788432,
+                        "longitude": -73.596185
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4855 Rue Jarry E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 3G1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4855 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 3G1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143257770",
+                  "display_phone": "+1 514-325-7770",
+                  "distance": 843.6615129570963
+            },
+            {
+                  "id": "A-Dxwoxal1L_Ycduagl2ng",
+                  "alias": "lisboa-saint-l\u00e9onard",
+                  "name": "Lisboa",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/lisboa-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "chickenshop",
+                              "title": "Chicken Shop"
+                        },
+                        {
+                              "alias": "portuguese",
+                              "title": "Portuguese"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5848658,
+                        "longitude": -73.6056419
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "8707 Boulevard Viau",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 2T9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "8707 Boulevard Viau",
+                              "Saint-L\u00e9onard, QC H1R 2T9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14383839901",
+                  "display_phone": "+1 438-383-9901",
+                  "distance": 837.522720189187
+            },
+            {
+                  "id": "AHCd_U5T-aX9bsl8hvt9ag",
+                  "alias": "cr\u00eapinos-saint-l\u00e9onard",
+                  "name": "Cr\u00eapinos",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EMqdFv2erew-dDTmmzebiQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/cr%C3%AApinos-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "creperies",
+                              "title": "Creperies"
+                        },
+                        {
+                              "alias": "desserts",
+                              "title": "Desserts"
+                        },
+                        {
+                              "alias": "coffee",
+                              "title": "Coffee & Tea"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.579938,
+                        "longitude": -73.5954075
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4965 Rue Jarry E",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4965 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143221991",
+                  "display_phone": "+1 514-322-1991",
+                  "distance": 653.7614197805539
+            },
+            {
+                  "id": "n2c7XXw23RwP8pi3QopnOg",
+                  "alias": "basha-saint-l\u00e9onard-2",
+                  "name": "Basha",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u7BjUxySBKh2oDvnXXMIDw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/basha-saint-l%C3%A9onard-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.5804483535978,
+                        "longitude": -73.5957758443152
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4975 Rue Jarry E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4975 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143225552",
+                  "display_phone": "+1 514-322-5552",
+                  "distance": 663.2362001627673
+            },
+            {
+                  "id": "3ikLhJ0ZWg_tJ-838hhHmw",
+                  "alias": "mcdonalds-saint-l\u00e9onard-8",
+                  "name": "McDonald's",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gNr_MqSLkuM7zXOlUymsog/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mcdonalds-saint-l%C3%A9onard-8?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 1.5,
+                  "coordinates": {
+                        "latitude": 45.5795804,
+                        "longitude": -73.590554
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5090 Boulevard M\u00e9tropolitain",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1S 2V7",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5090 Boulevard M\u00e9tropolitain",
+                              "Saint-L\u00e9onard, QC H1S 2V7",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143745333",
+                  "display_phone": "+1 514-374-5333",
+                  "distance": 840.7184160741206
+            },
+            {
+                  "id": "aUTrIrrcY959gBvamahJfA",
+                  "alias": "miramar-en-folie-saint-l\u00e9onard",
+                  "name": "Miramar en Folie",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pqWL2DfALYTn0lr7UPSqmg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/miramar-en-folie-saint-l%C3%A9onard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "newcanadian",
+                              "title": "Canadian (New)"
+                        },
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        }
+                  ],
+                  "rating": 1.5,
+                  "coordinates": {
+                        "latitude": 45.583176,
+                        "longitude": -73.591828
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "5250 Rue Jarry E",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Saint-L\u00e9onard",
+                        "zip_code": "H1R 3A9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5250 Rue Jarry E",
+                              "Saint-L\u00e9onard, QC H1R 3A9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15142236602",
+                  "display_phone": "+1 514-223-6602",
+                  "distance": 445.120478209186
+            },
+            {
+                  "id": "jhGmxCeHHws8Fu1gy-fH3w",
+                  "alias": "pizza-pizza-montr\u00e9al-19",
+                  "name": "Pizza Pizza",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gdaWE9AHeMB0_KSN-Rg8Jg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/pizza-pizza-montr%C3%A9al-19?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 2.0,
+                  "coordinates": {
+                        "latitude": 45.58511,
+                        "longitude": -73.60567
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "8705 Boulevard Viau",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H1R 2T9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "8705 Boulevard Viau",
+                              "Montreal, QC H1R 2T9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147371111",
+                  "display_phone": "+1 514-737-1111",
+                  "distance": 827.4447028294517
+            },
+            {
+                  "id": "e9yKYPtI3kSHrq1JoqMCNg",
+                  "alias": "vincent-saint-leonard",
+                  "name": "Vincent",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/vincent-saint-leonard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 1.5,
+                  "coordinates": {
+                        "latitude": 45.59295,
+                        "longitude": -73.59215
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "6005 Boulevard Robert",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1P 1M9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "6005 Boulevard Robert",
+                              "Saint-Leonard, QC H1P 1M9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143238694",
+                  "display_phone": "+1 514-323-8694",
+                  "distance": 746.4902041824489
+            },
+            {
+                  "id": "s0VTKy9JxMHMy6PNVy2xfA",
+                  "alias": "association-cattolica-eraclea-saint-leonard-2",
+                  "name": "Association Cattolica Eraclea",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/association-cattolica-eraclea-saint-leonard-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "amusementparks",
+                              "title": "Amusement Parks"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.57954,
+                        "longitude": -73.59631
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4891 Jarry Rue E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1R 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4891 Jarry Rue E",
+                              "Saint-Leonard, QC H1R 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143231798",
+                  "display_phone": "+1 514-323-1798",
+                  "distance": 774.3061534419348
+            },
+            {
+                  "id": "tqpSswPBZmtHrfIru6pZsw",
+                  "alias": "d-lounge-montr\u00e9al",
+                  "name": "D-Lounge",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/d-lounge-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.588517,
+                        "longitude": -73.585388
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5905 Boul M\u00e9tropolitain E",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H1P 1X3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5905 Boul M\u00e9tropolitain E",
+                              "Montreal, QC H1P 1X3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15146256656",
+                  "display_phone": "+1 514-625-6656",
+                  "distance": 800.5537603634375
+            },
+            {
+                  "id": "x6hG9yfMCB8OJVZUfV0u0A",
+                  "alias": "al-porto-saint-leonard",
+                  "name": "Al Porto",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/al-porto-saint-leonard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        },
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.58175,
+                        "longitude": -73.59319
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "5158 rue Jarry Est",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1R 1Y4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5158 rue Jarry Est",
+                              "Saint-Leonard, QC H1R 1Y4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143278000",
+                  "display_phone": "+1 514-327-8000",
+                  "distance": 524.9944582384587
+            },
+            {
+                  "id": "4fwCXGJIsrMtKEg64ETmuQ",
+                  "alias": "cafe-vanessa-saint-leonard",
+                  "name": "Cafe Vanessa",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/cafe-vanessa-saint-leonard?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.59323,
+                        "longitude": -73.59189
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "6029 Boulevard Robert",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Leonard",
+                        "zip_code": "H1P 1M9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "6029 Boulevard Robert",
+                              "Saint-Leonard, QC H1P 1M9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15149559617",
+                  "display_phone": "+1 514-955-9617",
+                  "distance": 797.2197488781757
+            }
+      ],
+      "total": 24,
+      "region": {
+            "center": {
+                  "longitude": -73.5952181,
+                  "latitude": 45.5864002
+            }
+      }
+}

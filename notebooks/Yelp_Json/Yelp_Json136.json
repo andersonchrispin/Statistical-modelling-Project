@@ -1,0 +1,837 @@
+{
+      "businesses": [
+            {
+                  "id": "DPt_FD6vw-TDQKJGjkr_zw",
+                  "alias": "restaurant-h\u00e9l\u00e8ne-de-champlain-montreal-2",
+                  "name": "Restaurant H\u00e9l\u00e8ne de Champlain",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-h%C3%A9l%C3%A8ne-de-champlain-montreal-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "french",
+                              "title": "French"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5153952,
+                        "longitude": -73.5319678
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "200 Du Tour-De-L'isle Ch",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3C 4G8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "200 Du Tour-De-L'isle Ch",
+                              "Montreal, QC H3C 4G8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143952424",
+                  "display_phone": "+1 514-395-2424",
+                  "distance": 361.5682681301437
+            },
+            {
+                  "id": "e87brbR99gkam8lucDhRLw",
+                  "alias": "meli-cr\u00eapes-gaufres-longueuil",
+                  "name": "Meli Cr\u00eapes Gaufres",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y0F-XCkWInjjRbuRw_6Nsg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/meli-cr%C3%AApes-gaufres-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "creperies",
+                              "title": "Creperies"
+                        },
+                        {
+                              "alias": "waffles",
+                              "title": "Waffles"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5239078221055,
+                        "longitude": -73.5213761776686
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-Le Moyne",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-Le Moyne",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14503969866",
+                  "display_phone": "+1 450-396-9866",
+                  "distance": 903.2557908822919
+            },
+            {
+                  "id": "iScmRSvGhJlPL_ZJ8cl9IA",
+                  "alias": "la-ronde-\u00eele-sainte-h\u00e9l\u00e8ne",
+                  "name": "La Ronde",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UDB7-NDNrIkId1PDZGR2eg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-ronde-%C3%AEle-sainte-h%C3%A9l%C3%A8ne?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 79,
+                  "categories": [
+                        {
+                              "alias": "amusementparks",
+                              "title": "Amusement Parks"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.52198369895345,
+                        "longitude": -73.53457293760978
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "22 Chemin Macdonald",
+                        "address2": "",
+                        "address3": "",
+                        "city": "\u00cele Sainte-H\u00e9l\u00e8ne",
+                        "zip_code": "H3C 6A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "22 Chemin Macdonald",
+                              "\u00cele Sainte-H\u00e9l\u00e8ne, QC H3C 6A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143972000",
+                  "display_phone": "+1 514-397-2000",
+                  "distance": 803.2027102344765
+            },
+            {
+                  "id": "gDWA8AZwZGNZ8w_APtlxAQ",
+                  "alias": "terrasse-67-montr\u00e9al",
+                  "name": "Terrasse 67",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/imTFH-HcvfIgpMWBOnmO5w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/terrasse-67-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "steak",
+                              "title": "Steakhouses"
+                        },
+                        {
+                              "alias": "beerbar",
+                              "title": "Beer Bar"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.512433,
+                        "longitude": -73.533055
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "Station de M\u00e9tro Jean-Drapeau",
+                        "address2": "Parc Jean-Drapeau",
+                        "address3": "\u00cele Sainte-H\u00e9l\u00e8ne",
+                        "city": "Montreal",
+                        "zip_code": "H3C",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "Station de M\u00e9tro Jean-Drapeau",
+                              "Parc Jean-Drapeau",
+                              "\u00cele Sainte-H\u00e9l\u00e8ne",
+                              "Montreal, QC H3C",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15145079190",
+                  "display_phone": "+1 514-507-9190",
+                  "distance": 672.2312158969753
+            },
+            {
+                  "id": "OkS2Jh7VmCE3U7kTZ7jsfw",
+                  "alias": "tim-hortons-longueuil",
+                  "name": "Tim Hortons",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xdl73i9B71hetXHSf4__uw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/tim-hortons-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "coffee",
+                              "title": "Coffee & Tea"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.52507,
+                        "longitude": -73.52162
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-le Moyne",
+                        "address2": "Suite 400",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-le Moyne",
+                              "Suite 400",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506467028",
+                  "display_phone": "+1 450-646-7028",
+                  "distance": 955.5882519823772
+            },
+            {
+                  "id": "T81p1OnpbvW9u1DohQaJZA",
+                  "alias": "n-et-g-restaurant-saint-lambert",
+                  "name": "N et G Restaurant",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/n-et-g-restaurant-saint-lambert?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.5168543224623,
+                        "longitude": -73.5189772769809
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1430 Rue Saint-Charles Ouest",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Saint-Lambert",
+                        "zip_code": "J4K 1A9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1430 Rue Saint-Charles Ouest",
+                              "Saint-Lambert, QC J4K 1A9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506741060",
+                  "display_phone": "+1 450-674-1060",
+                  "distance": 644.2350045435662
+            },
+            {
+                  "id": "MYXFHrmVnXV9F2kJgKhdrA",
+                  "alias": "subway-montr\u00e9al-189",
+                  "name": "Subway",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b9w_Z22j0PWSICAjfDIBnQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-montr%C3%A9al-189?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 2.0,
+                  "coordinates": {
+                        "latitude": 45.523209,
+                        "longitude": -73.535424
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "711 Chemin de la Ronde",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3C 6A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "711 Chemin de la Ronde",
+                              "Montreal, QC H3C 6A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15148780005",
+                  "display_phone": "+1 514-878-0005",
+                  "distance": 947.4978271565379
+            },
+            {
+                  "id": "qnHHHK_cF_6f4GTJFCTLOA",
+                  "alias": "jb-barbecue-montr\u00e9al",
+                  "name": "JB Barbecue",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xwLd50KMoSfzNJlLuM8sLQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/jb-barbecue-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "bbq",
+                              "title": "Barbeque"
+                        }
+                  ],
+                  "rating": 1.0,
+                  "coordinates": {
+                        "latitude": 45.522085,
+                        "longitude": -73.533673
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "22 Chemin Macdonald",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3C 6A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "22 Chemin Macdonald",
+                              "Montreal, QC H3C 6A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "",
+                  "display_phone": "",
+                  "distance": 763.4468491653189
+            },
+            {
+                  "id": "IBCNGSLsBG8OQQWqpxQ4cA",
+                  "alias": "mcdonalds-longueuil-4",
+                  "name": "McDonald's",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mcdonalds-longueuil-4?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 1.0,
+                  "coordinates": {
+                        "latitude": 45.524919,
+                        "longitude": -73.522176
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "100 Place Charles-Lemoyne",
+                        "address2": "Bureau 109, 107 & 131",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "100 Place Charles-Lemoyne",
+                              "Bureau 109, 107 & 131",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504422295",
+                  "display_phone": "+1 450-442-2295",
+                  "distance": 974.972918755628
+            },
+            {
+                  "id": "XIbDJxPCkMAnkBKUFEqo_Q",
+                  "alias": "mon-ami-express-longueuil-2",
+                  "name": "Mon Ami Express",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/07FL9CU5YXwyQb9L-f3sQg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mon-ami-express-longueuil-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "korean",
+                              "title": "Korean"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.523928,
+                        "longitude": -73.521373
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-le Moyne",
+                        "address2": "Suite 500",
+                        "address3": null,
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-le Moyne",
+                              "Suite 500",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509121525",
+                  "display_phone": "+1 450-912-1525",
+                  "distance": 905.3164656928458
+            },
+            {
+                  "id": "ReWX7G8VH2CPoUyr0mOHTQ",
+                  "alias": "brasserie-du-passant-la-longueuil",
+                  "name": "Brasserie Du Passant (La)",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/brasserie-du-passant-la-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "tapas",
+                              "title": "Tapas Bars"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5255538,
+                        "longitude": -73.5220647
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "100 Place Charles-Le Moyne",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "100 Place Charles-Le Moyne",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506706951",
+                  "display_phone": "+1 450-670-6951",
+                  "distance": 974.8389992309277
+            },
+            {
+                  "id": "S8rfzB1EG2UKiMoJswIPgg",
+                  "alias": "subway-restaurants-longueil",
+                  "name": "Subway Restaurants",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-restaurants-longueil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52507,
+                        "longitude": -73.52162
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles Lemoyne",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Longueil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles Lemoyne",
+                              "Longueil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506797407",
+                  "display_phone": "+1 450-679-7407",
+                  "distance": 955.5882519823772
+            },
+            {
+                  "id": "oJW84jC9zaKEvdWRyPdxTg",
+                  "alias": "queues-de-castor-montreal-7",
+                  "name": "Queues de Castor",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zzGdAv_ik4f-3LIwXoEvLQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/queues-de-castor-montreal-7?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "desserts",
+                              "title": "Desserts"
+                        },
+                        {
+                              "alias": "juicebars",
+                              "title": "Juice Bars & Smoothies"
+                        },
+                        {
+                              "alias": "poutineries",
+                              "title": "Poutineries"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5211349,
+                        "longitude": -73.5318592
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "22 Chemin Macdonald",
+                        "address2": null,
+                        "address3": null,
+                        "city": "montreal",
+                        "zip_code": "H3C 6A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "22 Chemin Macdonald",
+                              "montreal, QC H3C 6A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143972000",
+                  "display_phone": "+1 514-397-2000",
+                  "distance": 684.3032649777758
+            },
+            {
+                  "id": "118MOWm7_JkS0TwcuLb2HA",
+                  "alias": "sushi-shop-m\u00e9tro-longueuil-longueuil",
+                  "name": "Sushi Shop M\u00e9tro Longueuil",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/sushi-shop-m%C3%A9tro-longueuil-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5255378,
+                        "longitude": -73.5218888
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-Le Moyne, Suite 408",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-Le Moyne, Suite 408",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506511113",
+                  "display_phone": "+1 450-651-1113",
+                  "distance": 955.5882519823772
+            },
+            {
+                  "id": "cTmkR732dx5UdthsiIXOag",
+                  "alias": "mcdonalds-montr\u00e9al-104",
+                  "name": "McDonald's",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mcdonalds-montr%C3%A9al-104?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.523309,
+                        "longitude": -73.533993
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "208 Monde des Petits",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3C 1A9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "208 Monde des Petits",
+                              "Montreal, QC H3C 1A9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143939171",
+                  "display_phone": "+1 514-393-9171",
+                  "distance": 885.3375518202375
+            },
+            {
+                  "id": "6imq444APeVNWAqqa2_1zg",
+                  "alias": "charcuteries-tete-de-lard-les-longueuil",
+                  "name": "Charcuteries Tete De Lard (Les)",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/charcuteries-tete-de-lard-les-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "delis",
+                              "title": "Delis"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "gourmet",
+                              "title": "Specialty Food"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5255538,
+                        "longitude": -73.5220647
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "100 Place Charles-Le Moyne",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "100 Place Charles-Le Moyne",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506793040",
+                  "display_phone": "+1 450-679-3040",
+                  "distance": 974.8389992309277
+            },
+            {
+                  "id": "1V2s321Ve7x0nNKbiqcXtg",
+                  "alias": "a-and-w-longueuil-2",
+                  "name": "A&W",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D-w77bOG-w7IqxwL92ppbw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/a-and-w-longueuil-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52432748,
+                        "longitude": -73.52123485
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-Le Moyne",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-Le Moyne",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506705535",
+                  "display_phone": "+1 450-670-5535",
+                  "distance": 949.1764390242718
+            },
+            {
+                  "id": "PyXmrWpNSbw6J6i_6-tj8Q",
+                  "alias": "heure-de-pointe-longueuil",
+                  "name": "Heure De Pointe",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/heure-de-pointe-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52507,
+                        "longitude": -73.52162
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-Le Moyne",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-Le Moyne",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506799777",
+                  "display_phone": "+1 450-679-9777",
+                  "distance": 955.5882519823772
+            },
+            {
+                  "id": "o-9A7LgLKdPzJrbyVpPhpQ",
+                  "alias": "subway-restaurants-longueuil-3",
+                  "name": "Subway Restaurants",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-restaurants-longueuil-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.51718,
+                        "longitude": -73.51955
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1485 St. Charles Street",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Longueuil",
+                        "zip_code": "J4K 1A7",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1485 St. Charles Street",
+                              "Longueuil, QC J4K 1A7",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506706888",
+                  "display_phone": "+1 450-670-6888",
+                  "distance": 599.8050835977931
+            },
+            {
+                  "id": "JOQUwLVP-6c0OrTH-o3_Og",
+                  "alias": "o-banh-mi-longueuil",
+                  "name": "O Banh Mi",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/o-banh-mi-longueuil?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "vietnamese",
+                              "title": "Vietnamese"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52408,
+                        "longitude": -73.521381
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "120 Place Charles-Le Moyne",
+                        "address2": "Suite 410",
+                        "address3": null,
+                        "city": "Longueuil",
+                        "zip_code": "J4K 2T4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "120 Place Charles-Le Moyne",
+                              "Suite 410",
+                              "Longueuil, QC J4K 2T4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15148688633",
+                  "display_phone": "+1 514-868-8633",
+                  "distance": 919.6304011693043
+            }
+      ],
+      "total": 21,
+      "region": {
+            "center": {
+                  "longitude": -73.52724552,
+                  "latitude": 45.51690251
+            }
+      }
+}

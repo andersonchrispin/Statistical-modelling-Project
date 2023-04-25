@@ -1,0 +1,164 @@
+{
+      "results": [
+            {
+                  "distance": 749,
+                  "location": {
+                        "address": "637 32e Ave",
+                        "address_extended": "Plaza le Village Lachine",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "637 32e Ave, Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Thai Express",
+                  "popularity": 0.9067704390613172,
+                  "price": 2,
+                  "rating": 7.3,
+                  "store_id": "197"
+            },
+            {
+                  "distance": 925,
+                  "location": {
+                        "address": "2944 Remembrance Rue",
+                        "address_extended": "Unit 47A",
+                        "country": "CA",
+                        "cross_street": "32 avenue",
+                        "formatted_address": "2944 Remembrance Rue (32 avenue), Montr\u00e9al QC H8S 1X8",
+                        "locality": "Montreal",
+                        "postcode": "H8S 1X8",
+                        "region": "QC"
+                  },
+                  "name": "Subway",
+                  "popularity": 0.9158781226343679,
+                  "price": 1,
+                  "rating": 6.3,
+                  "store_id": "22200"
+            },
+            {
+                  "distance": 730,
+                  "location": {
+                        "address": "665 32e Ave",
+                        "country": "CA",
+                        "cross_street": "Rue Provost",
+                        "formatted_address": "665 32e Ave (Rue Provost), Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "R\u00f4tisserie St-Hubert",
+                  "popularity": 0.9845169379258137,
+                  "price": 2,
+                  "rating": 5.9,
+                  "store_id": "100097"
+            },
+            {
+                  "distance": 746,
+                  "location": {
+                        "address": "633 32e Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "633 32e Ave, Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Toujours Mikes",
+                  "popularity": 0.9447388342165026,
+                  "price": 2,
+                  "store_id": "MK-0026"
+            },
+            {
+                  "distance": 749,
+                  "location": {
+                        "address": "633 32e Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "633 32e Ave, Montr\u00e9al QC H8T 3G6",
+                        "locality": "Montreal",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Sushi Shop",
+                  "popularity": 0.949907740348221,
+                  "price": 2
+            },
+            {
+                  "distance": 960,
+                  "location": {
+                        "address": "2972 Remembrance Rue",
+                        "address_extended": "Suite 28",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "2972 Remembrance Rue, Lachine QC H8S 1X8",
+                        "locality": "Lachine",
+                        "postcode": "H8S 1X8",
+                        "region": "QC"
+                  },
+                  "name": "Pizza Hut",
+                  "popularity": 0.9492098788796366,
+                  "price": 1,
+                  "store_id": "R46001"
+            },
+            {
+                  "distance": 220,
+                  "location": {
+                        "address": "637 32e Ave",
+                        "country": "CA",
+                        "formatted_address": "637 32e Ave, Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Thai Express Lachine"
+            },
+            {
+                  "distance": 756,
+                  "location": {
+                        "address": "625 32e Ave",
+                        "country": "CA",
+                        "formatted_address": "625 32e Ave, Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Brasserie le Manoir - Lachine"
+            },
+            {
+                  "distance": 968,
+                  "location": {
+                        "address": "3119 Victoria Rue",
+                        "country": "CA",
+                        "formatted_address": "3119 Victoria Rue, Lachine QC H8S 1Z4",
+                        "locality": "Lachine",
+                        "postcode": "H8S 1Z4",
+                        "region": "QC"
+                  },
+                  "name": "Le March\u00e9 du Patissier Inc"
+            },
+            {
+                  "distance": 976,
+                  "location": {
+                        "address": "2972 Remembrance Rue",
+                        "country": "CA",
+                        "formatted_address": "2972 Remembrance Rue, Lachine QC H8S 1X8",
+                        "locality": "Lachine",
+                        "postcode": "H8S 1X8",
+                        "region": "QC"
+                  },
+                  "name": "Double Pizza"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.44053239,
+                              "longitude": -73.70242864
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

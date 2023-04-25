@@ -1,0 +1,155 @@
+{
+      "results": [
+            {
+                  "distance": 975,
+                  "location": {
+                        "address": "5411 rue de Verdun",
+                        "country": "CA",
+                        "cross_street": "coin Argyle",
+                        "formatted_address": "5411 rue de Verdun (coin Argyle), Verdun QC H4H 1K6",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1K6",
+                        "region": "QC"
+                  },
+                  "name": "Bagel St-Lo",
+                  "popularity": 0.9861965367146102,
+                  "price": 1,
+                  "rating": 8.9
+            },
+            {
+                  "distance": 587,
+                  "location": {
+                        "address": "5810 Rue de Verdun",
+                        "country": "CA",
+                        "cross_street": "Manning",
+                        "formatted_address": "5810 Rue de Verdun (Manning), Verdun QC H4H 1L9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1L9",
+                        "region": "QC"
+                  },
+                  "name": "Frejus St Raphael Cafe",
+                  "popularity": 0.9233535200605602,
+                  "price": 1,
+                  "rating": 7.4
+            },
+            {
+                  "distance": 877,
+                  "location": {
+                        "address": "5561 Rue de Verdun",
+                        "country": "CA",
+                        "cross_street": "Egan",
+                        "formatted_address": "5561 Rue de Verdun (Egan), Verdun QC H4H 1L2",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1L2",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Bingo Regd",
+                  "popularity": 0.9477313588190764,
+                  "price": 1,
+                  "rating": 7.3
+            },
+            {
+                  "distance": 901,
+                  "location": {
+                        "address": "5531 Rue de Verdun",
+                        "address_extended": "coin \u00c9gan",
+                        "country": "CA",
+                        "cross_street": "coin \u00c9gan",
+                        "formatted_address": "5531 Rue de Verdun (coin \u00c9gan), Verdun QC H4H 1K9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Au Coq",
+                  "popularity": 0.9881245268735807,
+                  "price": 2,
+                  "rating": 6.7
+            },
+            {
+                  "distance": 853,
+                  "location": {
+                        "address": "5583 Rue de Verdun",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "5583 Rue de Verdun, Montr\u00e9al QC H4H 1L2",
+                        "locality": "Montreal",
+                        "postcode": "H4H 1L2",
+                        "region": "QC"
+                  },
+                  "name": "Pizzeria Geppetto",
+                  "popularity": 0.904333838001514,
+                  "price": 2
+            },
+            {
+                  "distance": 591,
+                  "location": {
+                        "address": "5810 rue de Verdun",
+                        "country": "CA",
+                        "formatted_address": "5810 rue de Verdun, Verdun QC H4H 1L9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1L9",
+                        "region": "QC"
+                  },
+                  "name": "Cafe Frejus"
+            },
+            {
+                  "distance": 708,
+                  "location": {
+                        "address": "6300 Beurling Rue",
+                        "country": "CA",
+                        "formatted_address": "6300 Beurling Rue, Verdun QC H4H 1C8",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1C8",
+                        "region": "QC"
+                  },
+                  "name": "Les Grands Burlesques"
+            },
+            {
+                  "distance": 916,
+                  "location": {
+                        "address": "5511 rue de Verdun",
+                        "country": "CA",
+                        "formatted_address": "5511 rue de Verdun, Verdun QC H4H 1K9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Napolitana"
+            },
+            {
+                  "distance": 916,
+                  "location": {
+                        "address": "5511 rue de Verdun",
+                        "country": "CA",
+                        "formatted_address": "5511 rue de Verdun, Verdun QC H4H 1K9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Cafe Benetictins"
+            },
+            {
+                  "distance": 966,
+                  "location": {
+                        "address": "5433 Bannantyne Rue",
+                        "country": "CA",
+                        "formatted_address": "5433 Bannantyne Rue, Verdun QC H4H 1G1",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1G1",
+                        "region": "QC"
+                  },
+                  "name": "Frejus St Raphael Cafe"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.44435059,
+                              "longitude": -73.5754298
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

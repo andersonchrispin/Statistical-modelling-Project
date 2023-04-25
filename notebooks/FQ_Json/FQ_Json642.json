@@ -1,0 +1,85 @@
+{
+      "results": [
+            {
+                  "distance": 864,
+                  "location": {
+                        "address": "3307 Saint-Martin Blvd E",
+                        "country": "CA",
+                        "cross_street": "coin Jolicoeur",
+                        "formatted_address": "3307 Saint-Martin Blvd E (coin Jolicoeur), Laval QC H7E 4T6",
+                        "locality": "Laval",
+                        "postcode": "H7E 4T6",
+                        "region": "QC"
+                  },
+                  "name": "Cr\u00e9merie Pineault",
+                  "popularity": 0.9629563509774167,
+                  "price": 1,
+                  "rating": 8.2
+            },
+            {
+                  "distance": 846,
+                  "location": {
+                        "address": "3738 Blvd de la Concorde Est",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "3738 Blvd de la Concorde Est, Laval QC H7E 2C9",
+                        "locality": "Laval",
+                        "postcode": "H7E 2C9",
+                        "region": "QC"
+                  },
+                  "name": "La Pizza a Theo",
+                  "popularity": 0.11559403731143443,
+                  "price": 1
+            },
+            {
+                  "distance": 903,
+                  "location": {
+                        "address": "3630 Blvd de la Concorde E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "3630 Blvd de la Concorde E, Laval QC H7E 2C9",
+                        "locality": "Laval",
+                        "postcode": "H7E 2C9",
+                        "region": "QC"
+                  },
+                  "name": "Chair de Poule",
+                  "popularity": 0.3175935017406052,
+                  "price": 2
+            },
+            {
+                  "distance": 246,
+                  "location": {
+                        "address": "1119 Lesage Blvd",
+                        "country": "CA",
+                        "formatted_address": "1119 Lesage Blvd, Laval QC H7E 4V4",
+                        "locality": "Laval",
+                        "postcode": "H7E 4V4",
+                        "region": "QC"
+                  },
+                  "name": "Aac Achat d'Articles de Collection"
+            },
+            {
+                  "distance": 276,
+                  "location": {
+                        "address": "1135 Lesage Blvd",
+                        "country": "CA",
+                        "formatted_address": "1135 Lesage Blvd, Laval QC H7E 4V4",
+                        "locality": "Laval",
+                        "postcode": "H7E 4V4",
+                        "region": "QC"
+                  },
+                  "name": "Empanadas et Cie"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.60428797,
+                              "longitude": -73.66491795
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

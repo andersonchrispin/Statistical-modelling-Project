@@ -1,0 +1,58 @@
+{
+      "businesses": [
+            {
+                  "id": "-nC05jRBV5o9kHBibZBC6Q",
+                  "alias": "la-marinade-montr\u00e9al",
+                  "name": "La Marinade",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-marinade-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.44677,
+                        "longitude": -73.5726
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "6015 Boulevard LaSalle",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4H",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "6015 Boulevard LaSalle",
+                              "Montreal, QC H4H",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147659494",
+                  "display_phone": "+1 514-765-9494",
+                  "distance": 1240.9695078740465
+            }
+      ],
+      "total": 1,
+      "region": {
+            "center": {
+                  "longitude": -73.58253551,
+                  "latitude": 45.43791517
+            }
+      }
+}

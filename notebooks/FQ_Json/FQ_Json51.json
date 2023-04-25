@@ -1,0 +1,67 @@
+{
+      "results": [
+            {
+                  "distance": 627,
+                  "location": {
+                        "address": "6245 Henri-Bourassa Blvd O",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "6245 Henri-Bourassa Blvd O, Saint-Laurent QC H4R 1C7",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4R 1C7",
+                        "region": "QC"
+                  },
+                  "name": "Pizzeria Marios",
+                  "popularity": 0.9670467448902347,
+                  "price": 1,
+                  "rating": 5.9
+            },
+            {
+                  "distance": 626,
+                  "location": {
+                        "address": "6255 Henri-Bourassa Blvd O",
+                        "country": "CA",
+                        "formatted_address": "6255 Henri-Bourassa Blvd O, Saint-Laurent QC H4R 1C7",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4R 1C7",
+                        "region": "QC"
+                  },
+                  "name": "Bois Franc"
+            },
+            {
+                  "distance": 630,
+                  "location": {
+                        "address": "6045 Henri Bourassa Blvd O",
+                        "country": "CA",
+                        "formatted_address": "6045 Henri Bourassa Blvd O, Montreal QC H4R 1C5",
+                        "locality": "Montreal",
+                        "postcode": "H4R 1C5",
+                        "region": "QC"
+                  },
+                  "name": "Lotus Rouge"
+            },
+            {
+                  "distance": 990,
+                  "location": {
+                        "address": "5560 Henri-Bourassa Blvd O",
+                        "country": "CA",
+                        "formatted_address": "5560 Henri-Bourassa Blvd O, Saint-Laurent QC H4R 0M6",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4R 0M6",
+                        "region": "QC"
+                  },
+                  "name": "Metro Richelieu Inc"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.51758306,
+                              "longitude": -73.72661412
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

@@ -1,0 +1,58 @@
+{
+      "results": [
+            {
+                  "distance": 980,
+                  "location": {
+                        "address": "1676 Poirier Rue",
+                        "country": "CA",
+                        "cross_street": "Crevier",
+                        "formatted_address": "1676 Poirier Rue (Crevier), Saint-Laurent QC H4L 1J3",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4L 1J3",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Asie Moderne",
+                  "popularity": 0.9916848031794095,
+                  "price": 1,
+                  "rating": 8.2
+            },
+            {
+                  "distance": 471,
+                  "location": {
+                        "address": "1805 O'Brien Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "1805 O'Brien Ave, Montr\u00e9al QC H4L 3W6",
+                        "locality": "Montreal",
+                        "postcode": "H4L 3W6",
+                        "region": "QC"
+                  },
+                  "name": "Mamma's Restaurant Pizzeria",
+                  "popularity": 0.5918929788039364,
+                  "price": 2
+            },
+            {
+                  "distance": 454,
+                  "location": {
+                        "address": "1580 Barre Rue",
+                        "country": "CA",
+                        "formatted_address": "1580 Barre Rue, Saint-Laurent QC H4L 4M6",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4L 4M6",
+                        "region": "QC"
+                  },
+                  "name": "Ville St Laurent Pizzeria"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.52591382,
+                              "longitude": -73.68911147
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

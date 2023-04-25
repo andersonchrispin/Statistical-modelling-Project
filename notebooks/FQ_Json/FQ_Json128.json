@@ -1,0 +1,132 @@
+{
+      "results": [
+            {
+                  "distance": 508,
+                  "location": {
+                        "address": "8035 Andre-Ampere Ave",
+                        "country": "CA",
+                        "cross_street": "Armand-Bombardier",
+                        "formatted_address": "8035 Andre-Ampere Ave (Armand-Bombardier), Montr\u00e9al QC H1E 2W6",
+                        "locality": "Montreal",
+                        "postcode": "H1E 2W6",
+                        "region": "QC"
+                  },
+                  "name": "Andr\u00e9 Amp\u00e8re",
+                  "popularity": 0.9079650832702498,
+                  "price": 1
+            },
+            {
+                  "distance": 509,
+                  "location": {
+                        "address": "7901 Andre-Ampere Ave",
+                        "country": "CA",
+                        "cross_street": "avenue copernic",
+                        "formatted_address": "7901 Andre-Ampere Ave (avenue copernic), Montr\u00e9al QC H1E 3N1",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3N1",
+                        "region": "QC"
+                  },
+                  "name": "Chez Smoothzi",
+                  "popularity": 0.9883965745647237,
+                  "price": 1
+            },
+            {
+                  "distance": 562,
+                  "location": {
+                        "address": "8005 Andre-Ampere Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8005 Andre-Ampere Ave, Montreal QC H1E 2W6",
+                        "locality": "Montreal",
+                        "postcode": "H1E 2W6",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant le Surfin Inc",
+                  "popularity": 0.9966171461014383,
+                  "price": 1
+            },
+            {
+                  "distance": 491,
+                  "location": {
+                        "address": "7901 Andre-Ampere Ave",
+                        "country": "CA",
+                        "formatted_address": "7901 Andre-Ampere Ave, Montreal QC H1E 3N1",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3N1",
+                        "region": "QC"
+                  },
+                  "name": "Caf\u00e9 Bistrot"
+            },
+            {
+                  "distance": 507,
+                  "location": {
+                        "address": "8067 Andre-Ampere Ave",
+                        "country": "CA",
+                        "formatted_address": "8067 Andre-Ampere Ave, Montreal QC H1E 3J5",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3J5",
+                        "region": "QC"
+                  },
+                  "name": "Casse-Cro\u00fbte Resto Pam"
+            },
+            {
+                  "distance": 508,
+                  "location": {
+                        "address": "8035 Andre-Ampere Ave",
+                        "country": "CA",
+                        "formatted_address": "8035 Andre-Ampere Ave, Montreal QC H1E 2W6",
+                        "locality": "Montreal",
+                        "postcode": "H1E 2W6",
+                        "region": "QC"
+                  },
+                  "name": "Patisserie et Boulangerie"
+            },
+            {
+                  "distance": 521,
+                  "location": {
+                        "address": "8125 Andre-Ampere Ave",
+                        "country": "CA",
+                        "formatted_address": "8125 Andre-Ampere Ave, Montreal QC H1E 3J9",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3J9",
+                        "region": "QC"
+                  },
+                  "name": "Caf\u00e9 Foggia"
+            },
+            {
+                  "distance": 558,
+                  "location": {
+                        "address": "7901 Andre-Ampere Ave",
+                        "country": "CA",
+                        "formatted_address": "7901 Andre-Ampere Ave, Montreal QC H1E 3N1",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3N1",
+                        "region": "QC"
+                  },
+                  "name": "La Rotonda"
+            },
+            {
+                  "distance": 999,
+                  "location": {
+                        "address": "8254 Maurice-Duplessis Blvd",
+                        "country": "CA",
+                        "formatted_address": "8254 Maurice-Duplessis Blvd, Montreal QC H1E 3A3",
+                        "locality": "Montreal",
+                        "postcode": "H1E 3A3",
+                        "region": "QC"
+                  },
+                  "name": "9293-4595 Quebec Inc"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.6391233,
+                              "longitude": -73.5961118
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

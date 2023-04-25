@@ -1,0 +1,27 @@
+{
+      "results": [
+            {
+                  "distance": 859,
+                  "location": {
+                        "address": "637 32e Ave",
+                        "country": "CA",
+                        "formatted_address": "637 32e Ave, Lachine QC H8T 3G6",
+                        "locality": "Lachine",
+                        "postcode": "H8T 3G6",
+                        "region": "QC"
+                  },
+                  "name": "Thai Express Lachine"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.43656827,
+                              "longitude": -73.70836973
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

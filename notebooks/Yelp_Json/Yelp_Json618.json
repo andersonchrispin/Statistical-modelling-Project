@@ -1,0 +1,846 @@
+{
+      "businesses": [
+            {
+                  "id": "2KKcQkupkaXQPSRO6m3pGA",
+                  "alias": "spicebros-laval",
+                  "name": "SpiceBros",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-UAVQzOmsuau4Y1UpAN1cg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/spicebros-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "indpak",
+                              "title": "Indian"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.55605333533103,
+                        "longitude": -73.72294717210806
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1950 Rue Claude-Gagn\u00e9",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 5H9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1950 Rue Claude-Gagn\u00e9",
+                              "Laval, QC H7N 5H9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147023212",
+                  "display_phone": "+1 514-702-3212",
+                  "distance": 912.5051718099103
+            },
+            {
+                  "id": "3oPA_HFiQYdmCssyHpGXhA",
+                  "alias": "restaurant-calvi-laval-2",
+                  "name": "Restaurant Calvi",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ic2dk6csFJ_HaegKqSQbTQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-calvi-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 11,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "mediterranean",
+                              "title": "Mediterranean"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.5631961,
+                        "longitude": -73.7446864
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "2940 Ave Pierre-P\u00e9ladeau",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 3B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2940 Ave Pierre-P\u00e9ladeau",
+                              "Laval, QC H7T 3B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506801656",
+                  "display_phone": "+1 450-680-1656",
+                  "distance": 1246.1925688723395
+            },
+            {
+                  "id": "VNPohWM4XGTmzENY1Wvt8w",
+                  "alias": "portovino-ristorante-laval-2",
+                  "name": "Portovino Ristorante",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u4Uh8tl344rLBvUp8LUFEw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/portovino-ristorante-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 4,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "wine_bars",
+                              "title": "Wine Bars"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.557554577552835,
+                        "longitude": -73.72517529995962
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1160 Boulevard le Corbusier",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 6J5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1160 Boulevard le Corbusier",
+                              "Laval, QC H7N 6J5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506870101",
+                  "display_phone": "+1 450-687-0101",
+                  "distance": 796.508115887946
+            },
+            {
+                  "id": "Iq9eitPFgZAtbdXjylugJg",
+                  "alias": "boulangerie-al-touras-laval",
+                  "name": "Boulangerie Al Touras",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Zk5mAjZMhbeKJUQeF6TA5g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/boulangerie-al-touras-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5557668418692,
+                        "longitude": -73.7433326166036
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "1446 Boul Daniel Johnson",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7V 4B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1446 Boul Daniel Johnson",
+                              "Laval, QC H7V 4B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506873331",
+                  "display_phone": "+1 450-687-3331",
+                  "distance": 702.6065439221566
+            },
+            {
+                  "id": "Yih8-Ms_dKHagf0a5xHfvQ",
+                  "alias": "restaurant-eggsquis-laval",
+                  "name": "Restaurant Eggsquis",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gifVT0fs0vEutoyruby5KQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-eggsquis-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 5,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.55591,
+                        "longitude": -73.74349
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "1450 Boulevard Daniel-Johnson",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7V 4B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1450 Boulevard Daniel-Johnson",
+                              "Laval, QC H7V 4B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509737888",
+                  "display_phone": "+1 450-973-7888",
+                  "distance": 723.6184638178886
+            },
+            {
+                  "id": "kZemAmNPw_s5UHwStoBpwA",
+                  "alias": "lov-centropolis-laval",
+                  "name": "LOV Centropolis",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PlZaVVUWQogYyw9X-JqeDQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/lov-centropolis-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 23,
+                  "categories": [
+                        {
+                              "alias": "vegan",
+                              "title": "Vegan"
+                        },
+                        {
+                              "alias": "vegetarian",
+                              "title": "Vegetarian"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.562322,
+                        "longitude": -73.744725
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "140 Promenade du Centropolis",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7T 2Z6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "140 Promenade du Centropolis",
+                              "Laval, QC H7T 2Z6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15142871155",
+                  "display_phone": "+1 514-287-1155",
+                  "distance": 1175.0395125691145
+            },
+            {
+                  "id": "k6VOmy1kXkLeYVW4v1UerQ",
+                  "alias": "boeuf-cochon-laval",
+                  "name": "Boeuf Cochon",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LmCSRiYb3WCZQxJouyX-Fg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/boeuf-cochon-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 9,
+                  "categories": [
+                        {
+                              "alias": "steak",
+                              "title": "Steakhouses"
+                        },
+                        {
+                              "alias": "bars",
+                              "title": "Bars"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5626634,
+                        "longitude": -73.7291718
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1553 Boulevard Le Corbusier",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 6K8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1553 Boulevard Le Corbusier",
+                              "Laval, QC H7N 6K8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15796403133",
+                  "display_phone": "+1 579-640-3133",
+                  "distance": 1082.2917691105376
+            },
+            {
+                  "id": "3REVrvUM1t58n1dFPsge5g",
+                  "alias": "thai-express-laval-6",
+                  "name": "Thai Express",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jk-OT-0We9d7swBpEnoEQg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/thai-express-laval-6?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.55836,
+                        "longitude": -73.7255
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1020 Boulevard le Corbusier",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 0A9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1020 Boulevard le Corbusier",
+                              "Laval, QC H7N 0A9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506811128",
+                  "display_phone": "+1 450-681-1128",
+                  "distance": 703.5015683042261
+            },
+            {
+                  "id": "LuaAVELtl08JCCsOsvxDOQ",
+                  "alias": "jaq-le-coq-laval",
+                  "name": "Jaq Le Coq",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pDS0-hdskr3KKtnWlVWPfA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/jaq-le-coq-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "chickenshop",
+                              "title": "Chicken Shop"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.56214,
+                        "longitude": -73.7436
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1850 Av. Pierre-P\u00e9ladeau",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7T 2Z1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1850 Av. Pierre-P\u00e9ladeau",
+                              "Laval, QC H7T 2Z1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "",
+                  "display_phone": "",
+                  "distance": 1112.8733839556094
+            },
+            {
+                  "id": "xZyJ_TW_d1xXiVOcFD1NWw",
+                  "alias": "five-guys-laval-2",
+                  "name": "Five Guys",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FxsyF7OBNkG0hQoV_4HEvg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/five-guys-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "tradamerican",
+                              "title": "American (Traditional)"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5581368,
+                        "longitude": -73.7221342
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "600 Rue Lucien-paiement",
+                        "address2": "Suite 120",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 0A5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "600 Rue Lucien-paiement",
+                              "Suite 120",
+                              "Laval, QC H7N 0A5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14502380378",
+                  "display_phone": "+1 450-238-0378",
+                  "distance": 1039.4732205943988
+            },
+            {
+                  "id": "E4Q6TSe46OBVff1aMEHS_A",
+                  "alias": "la-cage-laval-2",
+                  "name": "La Cage",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kzj_cdrhi3qhvfhj9VFX6g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-cage-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "sportsbars",
+                              "title": "Sports Bars"
+                        },
+                        {
+                              "alias": "chicken_wings",
+                              "title": "Chicken Wings"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.55644545435448,
+                        "longitude": -73.72178091745687
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1950 Rue Claude-Gagn\u00e9",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 5H9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1950 Rue Claude-Gagn\u00e9",
+                              "Laval, QC H7N 5H9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143602584",
+                  "display_phone": "+1 514-360-2584",
+                  "distance": 1010.0490817185068
+            },
+            {
+                  "id": "pUqsEmquyurVFwMvuxbTIw",
+                  "alias": "caf\u00e9-ricardo-laval",
+                  "name": "Caf\u00e9 Ricardo",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ACXVbS9UseMNzTGcrDd8lw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/caf%C3%A9-ricardo-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 13,
+                  "categories": [
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5621097483158,
+                        "longitude": -73.7452167118409
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "150 Promenade du Centropolis",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7T 0B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "150 Promenade du Centropolis",
+                              "Laval, QC H7T 0B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14505056160",
+                  "display_phone": "+1 450-505-6160",
+                  "distance": 1184.5474521552133
+            },
+            {
+                  "id": "xHZs155hCahZSrT3Cqrs8g",
+                  "alias": "mikasa-laval",
+                  "name": "Mikasa",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/D69GNg2mUTQlbpiu5Wsf6g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mikasa-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 36,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        },
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.56205,
+                        "longitude": -73.74534
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "175 Promenade Centropolis",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 0B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "175 Promenade Centropolis",
+                              "Laval, QC H7T 0B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506813338",
+                  "display_phone": "+1 450-681-3338",
+                  "distance": 1204.0220146049367
+            },
+            {
+                  "id": "TfAxnRuYUBBdUkz2_LnV9g",
+                  "alias": "mandy-s-laval",
+                  "name": "Mandy\u2019s",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t06juogYjXeClerv1_kWCg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mandy-s-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 4,
+                  "categories": [
+                        {
+                              "alias": "salad",
+                              "title": "Salad"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5620492431342,
+                        "longitude": -73.7445100558346
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "142 Promenade du Centropolis",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7T 0B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "142 Promenade du Centropolis",
+                              "Laval, QC H7T 0B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14502327127",
+                  "display_phone": "+1 450-232-7127",
+                  "distance": 1141.4456402100009
+            },
+            {
+                  "id": "jBgoaETUKXYsm9Tqq911ZA",
+                  "alias": "jack-flat-bbq-laval",
+                  "name": "Jack Flat BBQ",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/To4doW5q8P77-mVw3Ok83A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/jack-flat-bbq-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        },
+                        {
+                              "alias": "steak",
+                              "title": "Steakhouses"
+                        },
+                        {
+                              "alias": "smokehouse",
+                              "title": "Smokehouse"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.561220757041276,
+                        "longitude": -73.7462419730681
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "520 Prom. Du Centropolis",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7T 2Z6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "520 Prom. Du Centropolis",
+                              "Laval, QC H7T 2Z6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "",
+                  "display_phone": "",
+                  "distance": 1177.7223804683892
+            },
+            {
+                  "id": "_H-pT9YEEaAKOSlpWFzk7Q",
+                  "alias": "la-belle-et-la-boeuf-laval",
+                  "name": "La Belle et la Boeuf",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NFM2sfD23ODn42u0VQQu8w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-belle-et-la-boeuf-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 121,
+                  "categories": [
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.561136608278,
+                        "longitude": -73.7458148241839
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "510 Promenade de Centropolis",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 3C2",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "510 Promenade de Centropolis",
+                              "Laval, QC H7T 3C2",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509348777",
+                  "display_phone": "+1 450-934-8777",
+                  "distance": 1146.0508443324086
+            },
+            {
+                  "id": "gwlgv3yZ_B0Mk9aLcwTpSw",
+                  "alias": "le-tire-bouchon-bistro-parisien-laval",
+                  "name": "Le Tire-Bouchon Bistro Parisien",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BLRL_w9J9EPYxuVAE-FU7A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-tire-bouchon-bistro-parisien-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 14,
+                  "categories": [
+                        {
+                              "alias": "french",
+                              "title": "French"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.56309,
+                        "longitude": -73.74466
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "2930 Av Pierre-Peladeau",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 3B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2930 Av Pierre-Peladeau",
+                              "Laval, QC H7T 3B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506811228",
+                  "display_phone": "+1 450-681-1228",
+                  "distance": 1233.4434939119826
+            },
+            {
+                  "id": "yGg7O0ATbMzoxrLvByzp2g",
+                  "alias": "elixor-laval",
+                  "name": "Elixor",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U5z87_HPT0xPVr4qkYshcw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/elixor-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 75,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "tradamerican",
+                              "title": "American (Traditional)"
+                        },
+                        {
+                              "alias": "mexican",
+                              "title": "Mexican"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.561909912039,
+                        "longitude": -73.7422746962232
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "Centropolis",
+                        "address2": "1795 Avenue Pierre P\u00e9ladeau",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 2Y5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "Centropolis",
+                              "1795 Avenue Pierre P\u00e9ladeau",
+                              "Laval, QC H7T 2Y5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506876877",
+                  "display_phone": "+1 450-687-6877",
+                  "distance": 1017.6656168531528
+            },
+            {
+                  "id": "B0vJZ5PuFeW42JpEgiuFjg",
+                  "alias": "all\u00f4-mon-coco-laval-28",
+                  "name": "All\u00f4! Mon Coco",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jhRXV0VhSiDv4s3cGrZgSw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/all%C3%B4-mon-coco-laval-28?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 36,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.562144,
+                        "longitude": -73.744282
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "100 Promenade du Centropolis",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 2Z6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "100 Promenade du Centropolis",
+                              "Laval, QC H7T 2Z6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509348989",
+                  "display_phone": "+1 450-934-8989",
+                  "distance": 1137.1480763020356
+            },
+            {
+                  "id": "bD46Yt0A_zToPPPE3Lv1cw",
+                  "alias": "enoteca-monza-laval-3",
+                  "name": "Enoteca Monza",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NOLpv7MY-ZDqOqhSA-CEfA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/enoteca-monza-laval-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 72,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.561769,
+                        "longitude": -73.746688
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "505 Promenade du Centropolis",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7T 0A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "505 Promenade du Centropolis",
+                              "Laval, QC H7T 0A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509733400",
+                  "display_phone": "+1 450-973-3400",
+                  "distance": 1243.2988308281692
+            }
+      ],
+      "total": 76,
+      "region": {
+            "center": {
+                  "longitude": -73.73447299,
+                  "latitude": 45.55456685
+            }
+      }
+}

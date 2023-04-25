@@ -1,0 +1,54 @@
+{
+      "results": [
+            {
+                  "distance": 421,
+                  "location": {
+                        "address": "1805 O'Brien Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "1805 O'Brien Ave, Montr\u00e9al QC H4L 3W6",
+                        "locality": "Montreal",
+                        "postcode": "H4L 3W6",
+                        "region": "QC"
+                  },
+                  "name": "Mamma's Restaurant Pizzeria",
+                  "popularity": 0.5918929788039364,
+                  "price": 2
+            },
+            {
+                  "distance": 804,
+                  "location": {
+                        "address": "1580 Barre Rue",
+                        "country": "CA",
+                        "formatted_address": "1580 Barre Rue, Saint-Laurent QC H4L 4M6",
+                        "locality": "Saint-Laurent",
+                        "postcode": "H4L 4M6",
+                        "region": "QC"
+                  },
+                  "name": "Ville St Laurent Pizzeria"
+            },
+            {
+                  "distance": 987,
+                  "location": {
+                        "address": "2774 Rue de Salaberry",
+                        "country": "CA",
+                        "formatted_address": "2774 Rue de Salaberry, Montreal QC H3M 1L3",
+                        "locality": "Montreal",
+                        "postcode": "H3M 1L3",
+                        "region": "QC"
+                  },
+                  "name": "Nouille Orientale"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.52814372,
+                              "longitude": -73.69254537
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

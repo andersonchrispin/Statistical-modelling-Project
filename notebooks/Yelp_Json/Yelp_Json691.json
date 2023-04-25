@@ -1,0 +1,767 @@
+{
+      "businesses": [
+            {
+                  "id": "OaS6LSD58o-9zK2Zo_uA8A",
+                  "alias": "kebeh-kebab-montr\u00e9al",
+                  "name": "Kebeh Kebab",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/kebeh-kebab-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 4,
+                  "categories": [
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        },
+                        {
+                              "alias": "kebab",
+                              "title": "Kebab"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5376702,
+                        "longitude": -73.6995418
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2600 Rue de Salaberry",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2600 Rue de Salaberry",
+                              "Montreal, QC H3M 1L3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15144191933",
+                  "display_phone": "+1 514-419-1933",
+                  "distance": 874.7563902339062
+            },
+            {
+                  "id": "ojO6pXRNPqDAe0ZbfU83Eg",
+                  "alias": "fourchette-antillaise-montr\u00e9al",
+                  "name": "Fourchette Antillaise",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fJ-Cmhn1zhxXiwBVLw4Otw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/fourchette-antillaise-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 12,
+                  "categories": [
+                        {
+                              "alias": "cajun",
+                              "title": "Cajun/Creole"
+                        },
+                        {
+                              "alias": "buffets",
+                              "title": "Buffets"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.527067,
+                        "longitude": -73.713396
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "5968 Rue de Salaberry",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4J 1J8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5968 Rue de Salaberry",
+                              "Montreal, QC H4J 1J8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143379393",
+                  "display_phone": "+1 514-337-9393",
+                  "distance": 824.8506937011454
+            },
+            {
+                  "id": "wVEqWey6p_1h5HqpFWtpDA",
+                  "alias": "dhaybi-montr\u00e9al",
+                  "name": "Dhaybi",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YNU8GeINRa0J641v3uKvOg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/dhaybi-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        },
+                        {
+                              "alias": "butcher",
+                              "title": "Butcher"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5272686471416,
+                        "longitude": -73.713031411171
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "5922 Salaberry Street",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4J 1J8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5922 Salaberry Street",
+                              "Montreal, QC H4J 1J8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147452033",
+                  "display_phone": "+1 514-745-2033",
+                  "distance": 789.4424494454947
+            },
+            {
+                  "id": "T_OCcUqAMv7SxlrWPCBJqQ",
+                  "alias": "tha\u00ef-express-montr\u00e9al-11",
+                  "name": "Tha\u00ef Express",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8n-XNix6vupmzQXwIi-_AQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/tha%C3%AF-express-montr%C3%A9al-11?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.5363516291023,
+                        "longitude": -73.7002452873764
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "Les Galeries Normandie",
+                        "address2": "2910 Rue de Salaberry",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "Les Galeries Normandie",
+                              "2910 Rue de Salaberry",
+                              "Montreal, QC H3M 1L3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147458787",
+                  "display_phone": "+1 514-745-8787",
+                  "distance": 721.9741024863978
+            },
+            {
+                  "id": "ub61fAoAH2tr7OOPRv9pOQ",
+                  "alias": "grillade-damlaj-saint-laurent",
+                  "name": "Grillade Damlaj",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/grillade-damlaj-saint-laurent?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "bbq",
+                              "title": "Barbeque"
+                        },
+                        {
+                              "alias": "halal",
+                              "title": "Halal"
+                        },
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.52142,
+                        "longitude": -73.70174
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1712 Rue Oxford",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Saint-Laurent",
+                        "zip_code": "H4L 1B6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1712 Rue Oxford",
+                              "Saint-Laurent, QC H4L 1B6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143378333",
+                  "display_phone": "+1 514-337-8333",
+                  "distance": 1006.9728230494233
+            },
+            {
+                  "id": "eax_NF7OPZH7laGZsHzuMw",
+                  "alias": "pho-kim-montr\u00e9al",
+                  "name": "Pho Kim",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Py8spX5PeP5PMxOkAv3Rw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/pho-kim-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "vietnamese",
+                              "title": "Vietnamese"
+                        },
+                        {
+                              "alias": "soup",
+                              "title": "Soup"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.52488965113693,
+                        "longitude": -73.71310740087736
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "11898 Boulevard Marcel-Laurin",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H4K 2V5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "11898 Boulevard Marcel-Laurin",
+                              "Montreal, QC H4K 2V5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143399449",
+                  "display_phone": "+1 514-339-9449",
+                  "distance": 941.0292062892879
+            },
+            {
+                  "id": "9t232-REH7zxrjh4yf0S7w",
+                  "alias": "biryani-and-co-montr\u00e9al",
+                  "name": "Biryani & Co",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0GsQJf06fFuHYoi3JmUWEA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/biryani-and-co-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "pakistani",
+                              "title": "Pakistani"
+                        },
+                        {
+                              "alias": "portuguese",
+                              "title": "Portuguese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.52462,
+                        "longitude": -73.71063
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "11835 Boulevard Laurentien",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H4J 2M1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "11835 Boulevard Laurentien",
+                              "Montreal, QC H4J 2M1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15142262000",
+                  "display_phone": "+1 514-226-2000",
+                  "distance": 828.2912654211319
+            },
+            {
+                  "id": "I-zvJY2zDCYCwJj3LIPqTw",
+                  "alias": "restaurant-adonai-montreal-nord",
+                  "name": "Restaurant Adonai",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nEH-LaV5hRlULG8lweln2Q/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-adonai-montreal-nord?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "restaurants",
+                              "title": "Restaurants"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.6014,
+                        "longitude": -73.63632
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4797 Henri-Bourassa Boul E",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal-Nord",
+                        "zip_code": "H1H 1M4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4797 Henri-Bourassa Boul E",
+                              "Montreal-Nord, QC H1H 1M4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143268880",
+                  "display_phone": "+1 514-326-8880",
+                  "distance": 895.6371419710783
+            },
+            {
+                  "id": "C7otENWIUD2veV8aIDztVA",
+                  "alias": "station-pizza-moderne-montr\u00e9al-2",
+                  "name": "Station Pizza Moderne",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iUArvrIAJf92Q0JrFRYqSA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/station-pizza-moderne-montr%C3%A9al-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.53438,
+                        "longitude": -73.71668
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5393 Boulevard Gouin O",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4J 1C7",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5393 Boulevard Gouin O",
+                              "Montreal, QC H4J 1C7",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15145330379",
+                  "display_phone": "+1 514-533-0379",
+                  "distance": 1072.7750230203383
+            },
+            {
+                  "id": "naFSaJovdSTJ1nM1GYbiXQ",
+                  "alias": "dairy-queen-ltd-brazier-montreal",
+                  "name": "Dairy Queen Ltd Brazier",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/dairy-queen-ltd-brazier-montreal?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "icecream",
+                              "title": "Ice Cream & Frozen Yogurt"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.526160796001946,
+                        "longitude": -73.71421896301854
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "11990 Lachapelle Rue",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4J 2M3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "11990 Lachapelle Rue",
+                              "Montreal, QC H4J 2M3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143318427",
+                  "display_phone": "+1 514-331-8427",
+                  "distance": 929.3756951860635
+            },
+            {
+                  "id": "zN1W7SkRTml7G1WjS_b3tg",
+                  "alias": "mcdonalds-montr\u00e9al-9",
+                  "name": "McDonald's",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gI4mh4Lq9a1441U2OFbbjg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mcdonalds-montr%C3%A9al-9?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 5,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 2.0,
+                  "coordinates": {
+                        "latitude": 45.536661,
+                        "longitude": -73.700665
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2920 Rue de Salaberry",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2920 Rue de Salaberry",
+                              "Montreal, QC H3M 1L3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143312445",
+                  "display_phone": "+1 514-331-2445",
+                  "distance": 741.8190433714034
+            },
+            {
+                  "id": "oUicVr2VOspmRi7CZlAAmA",
+                  "alias": "yum-yum-chicken-restaurant-montr\u00e9al",
+                  "name": "Yum Yum Chicken Restaurant",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K-fkm6UOg1nkKL7Ju3Td-g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/yum-yum-chicken-restaurant-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "salad",
+                              "title": "Salad"
+                        },
+                        {
+                              "alias": "chickenshop",
+                              "title": "Chicken Shop"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.53864,
+                        "longitude": -73.69895
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2525 Rue De Salaberry",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2525 Rue De Salaberry",
+                              "Montreal, QC H3M 1L1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14383779083",
+                  "display_phone": "+1 438-377-9083",
+                  "distance": 983.857151171532
+            },
+            {
+                  "id": "vgWviGJuO4XEAHS-snEcJQ",
+                  "alias": "subway-restaurants-montreal-9",
+                  "name": "Subway Restaurants",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-restaurants-montreal-9?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5375766,
+                        "longitude": -73.6996724
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2620 Rue de Salaberry",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2620 Rue de Salaberry",
+                              "Montreal, QC H3M 1L3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143366457",
+                  "display_phone": "+1 514-336-6457",
+                  "distance": 718.0339799234308
+            },
+            {
+                  "id": "mQQsXWQOiQl7SFkkDWRN6Q",
+                  "alias": "wifi-pizza-saint-laurent",
+                  "name": "Wifi Pizza",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/wifi-pizza-saint-laurent?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52152,
+                        "longitude": -73.70161
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1700 Rue Oxford",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Saint-Laurent",
+                        "zip_code": "H4L 1B6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1700 Rue Oxford",
+                              "Saint-Laurent, QC H4L 1B6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15148566555",
+                  "display_phone": "+1 514-856-6555",
+                  "distance": 991.631518536464
+            },
+            {
+                  "id": "79r9WNVhu-Kij_mgHLi63A",
+                  "alias": "depanneur-o-brien-saint-laurent",
+                  "name": "Depanneur O'brien",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/depanneur-o-brien-saint-laurent?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "delis",
+                              "title": "Delis"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "gourmet",
+                              "title": "Specialty Food"
+                        },
+                        {
+                              "alias": "convenience",
+                              "title": "Convenience Stores"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52685,
+                        "longitude": -73.69846
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2432 O'brien Av",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Saint-Laurent",
+                        "zip_code": "H4L 3X3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2432 O'brien Av",
+                              "Saint-Laurent, QC H4L 3X3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143344990",
+                  "display_phone": "+1 514-334-4990",
+                  "distance": 574.3043106994451
+            },
+            {
+                  "id": "pFtWz878rYz8keIzNdgAqA",
+                  "alias": "caf\u00e9-de-la-presse-montr\u00e9al-3",
+                  "name": "Caf\u00e9 de la Presse",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/caf%C3%A9-de-la-presse-montr%C3%A9al-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5368396934601,
+                        "longitude": -73.6977840683155
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "2864 Rue de Salaberry",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3M 1L3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "2864 Rue de Salaberry",
+                              "Montreal, QC H3M 1L3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143312225",
+                  "display_phone": "+1 514-331-2225",
+                  "distance": 861.9436351584706
+            },
+            {
+                  "id": "2ce8R8qcIb6yQ8BZIoASFA",
+                  "alias": "le-caf\u00e9-festigo\u00fbt-montr\u00e9al",
+                  "name": "Le Caf\u00e9 Festigo\u00fbt",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-caf%C3%A9-festigo%C3%BBt-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52795,
+                        "longitude": -73.70089
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5080 Rue Dudemaine",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H4J 1N6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5080 Rue Dudemaine",
+                              "Montreal, QC H4J 1N6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143328188",
+                  "display_phone": "+1 514-332-8188",
+                  "distance": 342.7142066877994
+            },
+            {
+                  "id": "aTN67nRia_Z_bNlXqUjx_g",
+                  "alias": "pizza-al-noor-tandori-montr\u00e9al-2",
+                  "name": "Pizza Al Noor Tandori",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/pizza-al-noor-tandori-montr%C3%A9al-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.52694,
+                        "longitude": -73.71313
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "5922 De Salaberry Rue",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H4J 1J8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "5922 De Salaberry Rue",
+                              "Montreal, QC H4J 1J8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15143345444",
+                  "display_phone": "+1 514-334-5444",
+                  "distance": 810.7864239202829
+            }
+      ],
+      "total": 18,
+      "region": {
+            "center": {
+                  "longitude": -73.70393218,
+                  "latitude": 45.5303945
+            }
+      }
+}

@@ -1,0 +1,89 @@
+{
+      "businesses": [
+            {
+                  "id": "2k0TYJpmr8c89SJjtZJNTw",
+                  "alias": "emeraude-de-bangkok-dorval",
+                  "name": "Emeraude de Bangkok",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/59gLhLoPovV-jSCN45Y2pQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/emeraude-de-bangkok-dorval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 31,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.445127,
+                        "longitude": -73.721408
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "413 Avenue Bourke",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Dorval",
+                        "zip_code": "H9S 3W8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "413 Avenue Bourke",
+                              "Dorval, QC H9S 3W8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15145386628",
+                  "display_phone": "+1 514-538-6628",
+                  "distance": 883.086637165083
+            },
+            {
+                  "id": "FXuMp43qxKoOUk5kdky1kQ",
+                  "alias": "2m-pizza-dorval",
+                  "name": "2M Pizza",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kj_CEFpg0g8gCRVSlgLsug/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/2m-pizza-dorval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 10,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.445,
+                        "longitude": -73.72125
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "419 Avenue Bourke",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Dorval",
+                        "zip_code": "H9S 3W8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "419 Avenue Bourke",
+                              "Dorval, QC H9S 3W8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15146366000",
+                  "display_phone": "+1 514-636-6000",
+                  "distance": 884.2758334001824
+            }
+      ],
+      "total": 2,
+      "region": {
+            "center": {
+                  "longitude": -73.71546686,
+                  "latitude": 45.43836714
+            }
+      }
+}

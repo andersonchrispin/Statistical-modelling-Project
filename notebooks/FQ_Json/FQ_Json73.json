@@ -1,0 +1,515 @@
+{
+      "results": [
+            {
+                  "distance": 804,
+                  "location": {
+                        "address": "5196 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "5196 Jarry Rue E, Montr\u00e9al QC H1R 1Y4",
+                        "locality": "Montreal",
+                        "postcode": "H1R 1Y4",
+                        "region": "QC"
+                  },
+                  "name": "Caf\u00e9 Milano",
+                  "popularity": 0.9936009651778955,
+                  "price": 2,
+                  "rating": 8.9
+            },
+            {
+                  "distance": 441,
+                  "location": {
+                        "address": "4673 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4673 Jarry Rue E, Montr\u00e9al QC H1R 1X6",
+                        "locality": "Montreal",
+                        "postcode": "H1R 1X6",
+                        "region": "QC"
+                  },
+                  "name": "Phuket",
+                  "popularity": 0.988526684330053,
+                  "price": 2,
+                  "rating": 8.5
+            },
+            {
+                  "distance": 750,
+                  "location": {
+                        "address": "5138 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "5138 Jarry Rue E, Saint-Leonard QC H1R 1Y4",
+                        "locality": "Saint-L\u00e9onard",
+                        "postcode": "H1R 1Y4",
+                        "region": "QC"
+                  },
+                  "name": "Gallo Nero Restaurant Statoria",
+                  "popularity": 0.9087339137017411,
+                  "price": 2,
+                  "rating": 6.7
+            },
+            {
+                  "distance": 1006,
+                  "location": {
+                        "address": "8460 Lacordaire Blvd",
+                        "country": "CA",
+                        "formatted_address": "8460 Lacordaire Blvd, Saint-Leonard QC H1R 2A5",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 2A5",
+                        "region": "QC"
+                  },
+                  "name": "Radikal Dezzertz",
+                  "popularity": 0.9048306207418623,
+                  "price": 1,
+                  "rating": 6.7
+            },
+            {
+                  "distance": 850,
+                  "location": {
+                        "address": "8101 Pie-Ix Blvd",
+                        "country": "CA",
+                        "cross_street": "rue Jarry Est",
+                        "formatted_address": "8101 Pie-Ix Blvd (rue Jarry Est), Montr\u00e9al QC H1Z 3T5",
+                        "locality": "Montreal",
+                        "postcode": "H1Z 3T5",
+                        "region": "QC"
+                  },
+                  "name": "Subway",
+                  "popularity": 0.9873083838001514,
+                  "price": 1,
+                  "rating": 6.4,
+                  "store_id": "29313"
+            },
+            {
+                  "distance": 1008,
+                  "location": {
+                        "address": "8492 Lacordaire Blvd",
+                        "address_extended": "Place Toulon",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8492 Lacordaire Blvd, Saint-Leonard QC H1R 2A5",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 2A5",
+                        "region": "QC"
+                  },
+                  "name": "Subway",
+                  "popularity": 0.8626987130961393,
+                  "price": 1,
+                  "rating": 6.4,
+                  "store_id": "57208"
+            },
+            {
+                  "distance": 634,
+                  "location": {
+                        "address": "8705 Viau Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8705 Viau Blvd, Montr\u00e9al QC H1R 2T9",
+                        "locality": "Montreal",
+                        "postcode": "H1R 2T9",
+                        "region": "QC"
+                  },
+                  "name": "Pizza Pizza",
+                  "popularity": 0.9350279144587433,
+                  "price": 1,
+                  "rating": 6.2,
+                  "store_id": "327"
+            },
+            {
+                  "distance": 887,
+                  "location": {
+                        "address": "8100 Pie Ix Blvd",
+                        "country": "CA",
+                        "formatted_address": "8100 Pie Ix Blvd, Montr\u00e9al QC H1Z 4P1",
+                        "locality": "Montreal",
+                        "postcode": "H1Z 4P1",
+                        "region": "QC"
+                  },
+                  "name": "Tim Hortons",
+                  "popularity": 0.9972203822861468,
+                  "price": 1,
+                  "rating": 5.5
+            },
+            {
+                  "distance": 936,
+                  "location": {
+                        "address": "5090 Metropolitain Blvd E",
+                        "country": "CA",
+                        "cross_street": "at Boischatel",
+                        "formatted_address": "5090 Metropolitain Blvd E (at Boischatel), Saint-Leonard QC H1S 2V7",
+                        "locality": "Saint-L\u00e9onard",
+                        "postcode": "H1S 2V7",
+                        "region": "QC"
+                  },
+                  "name": "McDonald's",
+                  "popularity": 0.9976816805450416,
+                  "price": 1,
+                  "rating": 4.9,
+                  "store_id": "26046"
+            },
+            {
+                  "distance": 136,
+                  "location": {
+                        "address": "8415 Viau Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8415 Viau Blvd, Saint-Leonard QC H1R 2T6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 2T6",
+                        "region": "QC"
+                  },
+                  "name": "Boulangerie P\u00e2tisserie Charcuterie Friulano",
+                  "popularity": 0.09686080620741862,
+                  "price": 1
+            },
+            {
+                  "distance": 426,
+                  "location": {
+                        "address": "4647 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4647 Jarry Rue E, Saint-Leonard QC H1R 1X6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X6",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Binh Minh",
+                  "popularity": 0.561222558667676,
+                  "price": 2
+            },
+            {
+                  "distance": 444,
+                  "location": {
+                        "address": "4579 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4579 Jarry Rue E, Montr\u00e9al QC H1R 1X6",
+                        "locality": "Montreal",
+                        "postcode": "H1R 1X6",
+                        "region": "QC"
+                  },
+                  "name": "Boulangerie & Patisserie Napol",
+                  "popularity": 0.9293622255866768,
+                  "price": 1
+            },
+            {
+                  "distance": 446,
+                  "location": {
+                        "address": "4549 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4549 Jarry Rue E, Saint-Leonard QC H1R 1X6",
+                        "locality": "Saint-L\u00e9onard",
+                        "postcode": "H1R 1X6",
+                        "region": "QC"
+                  },
+                  "name": "Pho Mai",
+                  "popularity": 0.9818792581377744,
+                  "price": 2
+            },
+            {
+                  "distance": 491,
+                  "location": {
+                        "address": "4855 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4855 Jarry Rue E, Saint-Leonard QC H1R 3G1",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 3G1",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Costa Del Sol",
+                  "popularity": 0.83382617335352,
+                  "price": 2
+            },
+            {
+                  "distance": 494,
+                  "location": {
+                        "address": "4921 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "at rue de Chamilly",
+                        "formatted_address": "4921 Jarry Rue E (at rue de Chamilly), Montr\u00e9al QC H1R 1Y1",
+                        "locality": "Montreal",
+                        "postcode": "H1R 1Y1",
+                        "region": "QC"
+                  },
+                  "name": "Boulangerie P\u00e2tisserie St L\u00e9onard",
+                  "popularity": 0.7762585162755489,
+                  "price": 1
+            },
+            {
+                  "distance": 519,
+                  "location": {
+                        "address": "4919 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4919 Jarry Rue E, Montr\u00e9al QC H1R 1Y1",
+                        "locality": "Montreal",
+                        "postcode": "H1R 1Y1",
+                        "region": "QC"
+                  },
+                  "name": "La Grotte des Fromages",
+                  "popularity": 0.8822033497350492,
+                  "price": 1
+            },
+            {
+                  "distance": 539,
+                  "location": {
+                        "address": "4919 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4919 Jarry Rue E, Saint-Leonard QC H1R 1Y1",
+                        "locality": "Saint-L\u00e9onard",
+                        "postcode": "H1R 1Y1",
+                        "region": "QC"
+                  },
+                  "name": "Du Boucher a la Table",
+                  "popularity": 0.9879471044663134,
+                  "price": 2
+            },
+            {
+                  "distance": 560,
+                  "location": {
+                        "address": "2636 Daniel-Johnson Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "2636 Daniel-Johnson Blvd, Laval QC H7T 2K1",
+                        "locality": "Laval",
+                        "postcode": "H7T 2K1",
+                        "region": "QC"
+                  },
+                  "name": "Amir",
+                  "popularity": 0.7324706661619985,
+                  "price": 2
+            },
+            {
+                  "distance": 604,
+                  "location": {
+                        "address": "4755 Metropolitain",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4755 Metropolitain, Montr\u00e9al QC",
+                        "locality": "Montreal",
+                        "region": "QC"
+                  },
+                  "name": "JeeRa Lounge",
+                  "popularity": 0.1345689818319455,
+                  "price": 3
+            },
+            {
+                  "distance": 779,
+                  "location": {
+                        "address": "5152 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "Lacordaire",
+                        "formatted_address": "5152 Jarry Rue E (Lacordaire), Saint-Leonard QC H1R 1Y4",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1Y4",
+                        "region": "QC"
+                  },
+                  "name": "Luce Resto Bar",
+                  "popularity": 0.894800340651022,
+                  "price": 2
+            },
+            {
+                  "distance": 804,
+                  "location": {
+                        "address": "8549 Pie-Ix Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8549 Pie-Ix Blvd, Montr\u00e9al QC H1Z 3T9",
+                        "locality": "Montreal",
+                        "postcode": "H1Z 3T9",
+                        "region": "QC"
+                  },
+                  "name": "Go\u00fbter Tropical",
+                  "popularity": 0.7320093679031037,
+                  "price": 2
+            },
+            {
+                  "distance": 911,
+                  "location": {
+                        "address": "5250 Jarry Rue E",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "5250 Jarry Rue E, Saint-Leonard QC H1R 3A9",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 3A9",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Miramar Express",
+                  "popularity": 0.28625331188493564,
+                  "price": 2
+            },
+            {
+                  "distance": 937,
+                  "location": {
+                        "address": "7600 Viau Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "7600 Viau Blvd, Montr\u00e9al QC H1S 2P3",
+                        "locality": "Montreal",
+                        "postcode": "H1S 2P3",
+                        "region": "QC"
+                  },
+                  "name": "Yeh",
+                  "popularity": 0.2801499810749432,
+                  "price": 1
+            },
+            {
+                  "distance": 3799,
+                  "location": {
+                        "address": "4719 Lavoisier Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "4719 Lavoisier Blvd, Montr\u00e9al QC",
+                        "locality": "Montreal",
+                        "region": "QC"
+                  },
+                  "name": "Cafe Nada Bar & Grill",
+                  "popularity": 0.7885361468584405,
+                  "price": 1
+            },
+            {
+                  "distance": 194,
+                  "location": {
+                        "address": "8215 Viau Blvd",
+                        "country": "CA",
+                        "formatted_address": "8215 Viau Blvd, Saint-Leonard QC H1R 2T2",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 2T2",
+                        "region": "QC"
+                  },
+                  "name": "Yummy Things"
+            },
+            {
+                  "distance": 251,
+                  "location": {
+                        "address": "8461 Viau Blvd",
+                        "country": "CA",
+                        "formatted_address": "8461 Viau Blvd, Saint-Leonard QC H1R 2T6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 2T6",
+                        "region": "QC"
+                  },
+                  "name": "Au Tacos Plaza Viau"
+            },
+            {
+                  "distance": 428,
+                  "location": {
+                        "address": "4647 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4647 Jarry Rue E, Saint-Leonard QC H1R 1X6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X6",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Pho Ngoc Tuan"
+            },
+            {
+                  "distance": 441,
+                  "location": {
+                        "address": "4688 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4688 Jarry Rue E, Saint-Leonard QC H1R 1X3",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X3",
+                        "region": "QC"
+                  },
+                  "name": "Bar Azzurro"
+            },
+            {
+                  "distance": 481,
+                  "location": {
+                        "address": "4664 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4664 Jarry Rue E, Saint-Leonard QC H1R 1X3",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X3",
+                        "region": "QC"
+                  },
+                  "name": "Cafe Capo-Chino"
+            },
+            {
+                  "distance": 481,
+                  "location": {
+                        "address": "4688 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4688 Jarry Rue E, Saint-Leonard QC H1R 1X3",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X3",
+                        "region": "QC"
+                  },
+                  "name": "Cafe Sino"
+            },
+            {
+                  "distance": 484,
+                  "location": {
+                        "address": "4660 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4660 Jarry Rue E, Saint-Leonard QC H1R 1X3",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X3",
+                        "region": "QC"
+                  },
+                  "name": "Boulangerie Traiteur Farhat"
+            },
+            {
+                  "distance": 493,
+                  "location": {
+                        "address": "4696 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4696 Jarry Rue E, Saint-Leonard QC H1R 1X3",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1X3",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant barbec tropical"
+            },
+            {
+                  "distance": 500,
+                  "location": {
+                        "address": "4713 Robert Blvd",
+                        "country": "CA",
+                        "formatted_address": "4713 Robert Blvd, Saint-Leonard QC H1R 3E6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 3E6",
+                        "region": "QC"
+                  },
+                  "name": "Resto-Caf\u00e9 El Kaif"
+            },
+            {
+                  "distance": 504,
+                  "location": {
+                        "address": "4871 Jarry Rue E",
+                        "country": "CA",
+                        "formatted_address": "4871 Jarry Rue E, Saint-Leonard QC H1R 1Y1",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 1Y1",
+                        "region": "QC"
+                  },
+                  "name": "Resto Caf\u00e9 Time Square"
+            },
+            {
+                  "distance": 505,
+                  "location": {
+                        "address": "4745 Robert Blvd",
+                        "country": "CA",
+                        "formatted_address": "4745 Robert Blvd, Saint-Leonard QC H1R 3E6",
+                        "locality": "Saint-Leonard",
+                        "postcode": "H1R 3E6",
+                        "region": "QC"
+                  },
+                  "name": "Cafe du Sportif Benevento"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.57940569,
+                              "longitude": -73.60258877
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

@@ -1,0 +1,765 @@
+{
+      "businesses": [
+            {
+                  "id": "L8pDvk_ytcZFKBYma5Ankg",
+                  "alias": "chez-gerard-laval",
+                  "name": "Chez Gerard",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/m0I_78xmue3LNO3NSWnJ6g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/chez-gerard-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 7,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.55939,
+                        "longitude": -73.688479
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "46 Boulevard Cartier O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 2H4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "46 Boulevard Cartier O",
+                              "Laval, QC H7N 2H4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506688625",
+                  "display_phone": "+1 450-668-8625",
+                  "distance": 812.7857061637326
+            },
+            {
+                  "id": "ZGWNMuzs-Dz2nPa4z2SiVQ",
+                  "alias": "la-boulangerie-p\u00e2tisserie-concorde-artisan-laval",
+                  "name": "LA BOULANGERIE P\u00c2TISSERIE CONCORDE ARTISAN",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6Hb4xK9BoJxSBGBX0HdGNw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-boulangerie-p%C3%A2tisserie-concorde-artisan-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "bakeries",
+                              "title": "Bakeries"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.56176911059767,
+                        "longitude": -73.70798261429519
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "608 Boulevard de la Concorde Ouest",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 5R1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "608 Boulevard de la Concorde Ouest",
+                              "Laval, QC H7N 5R1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506687853",
+                  "display_phone": "+1 450-668-7853",
+                  "distance": 749.6564004950518
+            },
+            {
+                  "id": "sXQSHLS1QlR8CLpE_gC-tQ",
+                  "alias": "boucherie-et-grillades-al-madina-laval",
+                  "name": "Boucherie et Grillades Al Madina",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/boucherie-et-grillades-al-madina-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "bbq",
+                              "title": "Barbeque"
+                        },
+                        {
+                              "alias": "meats",
+                              "title": "Meat Shops"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5659645114773,
+                        "longitude": -73.6998165433757
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "204 Boulevard de la Concorde Ouest",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 1J1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "204 Boulevard de la Concorde Ouest",
+                              "Laval, QC H7N 1J1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509339444",
+                  "display_phone": "+1 450-933-9444",
+                  "distance": 722.7165792618215
+            },
+            {
+                  "id": "KvFJZAEfb2dla4NtDRpPtA",
+                  "alias": "bistro-la-coquille-laval",
+                  "name": "Bistro la Coquille",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/agPxBFl0gY38Ia09Pv7iIQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/bistro-la-coquille-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "haitian",
+                              "title": "Haitian"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.565896,
+                        "longitude": -73.686733
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "209 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7G 2T7",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "209 Boulevard des Laurentides",
+                              "Laval, QC H7G 2T7",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509335009",
+                  "display_phone": "+1 450-933-5009",
+                  "distance": 1185.8863825026247
+            },
+            {
+                  "id": "tpvV4150SG3bsjwpuiLsCQ",
+                  "alias": "caf\u00e9-bistro-ii-momento-laval-2",
+                  "name": "Caf\u00e9 Bistro II Momento",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aSepxVl07TWgLLi5r6yJfQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/caf%C3%A9-bistro-ii-momento-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "soup",
+                              "title": "Soup"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.56595,
+                        "longitude": -73.69955
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "180 Boulevard de la Concorde O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 1H9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "180 Boulevard de la Concorde O",
+                              "Laval, QC H7N 1H9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506679300",
+                  "display_phone": "+1 450-667-9300",
+                  "distance": 715.6334662877666
+            },
+            {
+                  "id": "7M-QrQOCuvnnk_a-MySfDQ",
+                  "alias": "chez-gerard-laval-2",
+                  "name": "Chez Gerard",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KOyewSfXby2FPLzlZ--bCg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/chez-gerard-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 8,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.5661,
+                        "longitude": -73.69922
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "110 Boul De La Concorde O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 1H9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "110 Boul De La Concorde O",
+                              "Laval, QC H7N 1H9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506691406",
+                  "display_phone": "+1 450-669-1406",
+                  "distance": 735.9710130038961
+            },
+            {
+                  "id": "xGwzM6O_kU8La3RH5WRDjA",
+                  "alias": "georges-sous-marin-et-pizza-laval",
+                  "name": "Georges Sous-Marin et Pizza",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LUGaGfe9s3G-Am3TM62jDA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/georges-sous-marin-et-pizza-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "newcanadian",
+                              "title": "Canadian (New)"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.566413,
+                        "longitude": -73.701678
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "255 Boulevard de la Concorde O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 5T1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "255 Boulevard de la Concorde O",
+                              "Laval, QC H7N 5T1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506298000",
+                  "display_phone": "+1 450-629-8000",
+                  "distance": 798.6447540437716
+            },
+            {
+                  "id": "EAKI4wifFfJ3sDuQ7sWgLw",
+                  "alias": "le-cartier-laval",
+                  "name": "Le Cartier",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zb0yIdN4UqtTu4rvhKEsmQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-cartier-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.5550138094428,
+                        "longitude": -73.7024866281465
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "319 Boulevard Cartier Ouest",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 2J3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "319 Boulevard Cartier Ouest",
+                              "Laval, QC H7N 2J3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506691600",
+                  "display_phone": "+1 450-669-1600",
+                  "distance": 570.5772077994745
+            },
+            {
+                  "id": "QVzRo5Umm-Wc2QaO1tVVow",
+                  "alias": "allo-pizza-laval-2",
+                  "name": "Allo Pizza",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/allo-pizza-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 1.0,
+                  "coordinates": {
+                        "latitude": 45.5585,
+                        "longitude": -73.69061
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "105 Boulevard Cartier O",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 4E6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "105 Boulevard Cartier O",
+                              "Laval, QC H7N 4E6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509757000",
+                  "display_phone": "+1 450-975-7000",
+                  "distance": 654.2525673027275
+            },
+            {
+                  "id": "5wiONZnQg1LuqZjNLB6KZg",
+                  "alias": "subway-laval-24",
+                  "name": "Subway",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-laval-24?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.561412,
+                        "longitude": -73.708777
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "544 Avenue Amp\u00e8re",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 5H6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "544 Avenue Amp\u00e8re",
+                              "Laval, QC H7N 5H6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509752227",
+                  "display_phone": "+1 450-975-2227",
+                  "distance": 796.6218254072436
+            },
+            {
+                  "id": "ev2t44xACAgd1cXTW_2DGQ",
+                  "alias": "wings-buffalo-laval",
+                  "name": "Wings Buffalo",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qoIIp05y3nlfqeIXUO7jSQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/wings-buffalo-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "chicken_wings",
+                              "title": "Chicken Wings"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.559160301691314,
+                        "longitude": -73.6901741122686
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "74a Bd Cartier O",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 2A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "74a Bd Cartier O",
+                              "Laval, QC H7N 2A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15142281414",
+                  "display_phone": "+1 514-228-1414",
+                  "distance": 681.7488564116719
+            },
+            {
+                  "id": "eqF9w2TjeZZyhQKOTwfI0A",
+                  "alias": "r\u00f4tisseries-au-coq-montr\u00e9al-2",
+                  "name": "R\u00f4tisseries Au Coq",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mX_jF0f65rG6NpL3lpCXHA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/r%C3%B4tisseries-au-coq-montr%C3%A9al-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "bbq",
+                              "title": "Barbeque"
+                        },
+                        {
+                              "alias": "chickenshop",
+                              "title": "Chicken Shop"
+                        },
+                        {
+                              "alias": "poutineries",
+                              "title": "Poutineries"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.559206558083204,
+                        "longitude": -73.68944545276116
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "54 Boulevard Cartier O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H7N 2H5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "54 Boulevard Cartier O",
+                              "Montreal, QC H7N 2H5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506679550",
+                  "display_phone": "+1 450-667-9550",
+                  "distance": 738.1584746853674
+            },
+            {
+                  "id": "Qcuk4ogoXkaD0og6BA3HxA",
+                  "alias": "pizza-paris-laval",
+                  "name": "Pizza Paris",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZffAHEcw7N8cSZnzel5dlA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/pizza-paris-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.56141,
+                        "longitude": -73.70865
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "542 Av Ampere",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 5H6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "542 Av Ampere",
+                              "Laval, QC H7N 5H6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509751975",
+                  "display_phone": "+1 450-975-1975",
+                  "distance": 788.9578103616878
+            },
+            {
+                  "id": "q3W1kp56Ut7-Za2ijd4T4A",
+                  "alias": "buffalo-bill-wings-laval-2",
+                  "name": "Buffalo Bill Wings",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UKSAPYaIlGqOtIzAv1kd2A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/buffalo-bill-wings-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "chicken_wings",
+                              "title": "Chicken Wings"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "poutineries",
+                              "title": "Poutineries"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.55915138115095,
+                        "longitude": -73.69017679447771
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "74a Boulevard Cartier O",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 2A3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "74a Boulevard Cartier O",
+                              "Laval, QC H7N 2A3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509339949",
+                  "display_phone": "+1 450-933-9949",
+                  "distance": 681.5953644971382
+            },
+            {
+                  "id": "NJlsBtaLE3xS_tuc2F_Ohg",
+                  "alias": "dominos-pizza-laval-3",
+                  "name": "Domino's Pizza",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aPdY8yLZo-RR2_VV0qvpAg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/dominos-pizza-laval-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.56692,
+                        "longitude": -73.69898
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "103 Boul De La Concorde O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 1H8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "103 Boul De La Concorde O",
+                              "Laval, QC H7N 1H8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506699555",
+                  "display_phone": "+1 450-669-9555",
+                  "distance": 831.3403459354366
+            },
+            {
+                  "id": "1Mfo3slmwwAMlF9Aen1lxw",
+                  "alias": "subway-restaurants-laval-9",
+                  "name": "Subway Restaurants",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-restaurants-laval-9?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.5572762,
+                        "longitude": -73.6980168
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "293 A Cartier Boulevard West",
+                        "address2": null,
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 2J1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "293 A Cartier Boulevard West",
+                              "Laval, QC H7N 2J1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504901039",
+                  "display_phone": "+1 450-490-1039",
+                  "distance": 204.55520371845765
+            },
+            {
+                  "id": "U6e53I2Xbh2uev4qiNxmKg",
+                  "alias": "surprise-pizza-2-pour-1-laval",
+                  "name": "Surprise Pizza 2 Pour 1",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/surprise-pizza-2-pour-1-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.55925,
+                        "longitude": -73.68968
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "62 Boul Cartier O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 2H5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "62 Boul Cartier O",
+                              "Laval, QC H7N 2H5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506634545",
+                  "display_phone": "+1 450-663-4545",
+                  "distance": 717.4838046774031
+            },
+            {
+                  "id": "Pfwm0qFQwhAaeAv3HG3ffQ",
+                  "alias": "ici-cr\u00e9ole-laval",
+                  "name": "Ici Cr\u00e9ole",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aI74ozC0TBiZ2XmOujXQdg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/ici-cr%C3%A9ole-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "cajun",
+                              "title": "Cajun/Creole"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.559179111908634,
+                        "longitude": -73.6898674
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "66 Boulevard Cartier O",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 2H5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "66 Boulevard Cartier O",
+                              "Laval, QC H7N 2H5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506342420",
+                  "display_phone": "+1 450-634-2420",
+                  "distance": 705.4860142889828
+            }
+      ],
+      "total": 18,
+      "region": {
+            "center": {
+                  "longitude": -73.69891763,
+                  "latitude": 45.5594955
+            }
+      }
+}

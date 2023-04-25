@@ -1,0 +1,54 @@
+{
+      "results": [
+            {
+                  "distance": 323,
+                  "location": {
+                        "address": "1420 Legendre Rue E",
+                        "country": "CA",
+                        "cross_street": "Andre-Grasset",
+                        "formatted_address": "1420 Legendre Rue E (Andre-Grasset), Montr\u00e9al QC H2M 1H5",
+                        "locality": "Montreal",
+                        "postcode": "H2M 1H5",
+                        "region": "QC"
+                  },
+                  "name": "Petit Nguyen",
+                  "popularity": 0.966514477668433,
+                  "price": 2
+            },
+            {
+                  "distance": 953,
+                  "location": {
+                        "address": "9099 d'Iberville Rue",
+                        "country": "CA",
+                        "formatted_address": "9099 d'Iberville Rue, Montreal QC H1Z 2R2",
+                        "locality": "Montreal",
+                        "postcode": "H1Z 2R2",
+                        "region": "QC"
+                  },
+                  "name": "Boulangerie Island Organix"
+            },
+            {
+                  "distance": 995,
+                  "location": {
+                        "address": "1501 Blvd Cr\u00e9mazie E",
+                        "country": "CA",
+                        "formatted_address": "1501 Blvd Cr\u00e9mazie E, Montreal QC H2M 2N9",
+                        "locality": "Montreal",
+                        "postcode": "H2M 2N9",
+                        "region": "QC"
+                  },
+                  "name": "L'Oeufrier Cremazie"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.55988368,
+                              "longitude": -73.63356829
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

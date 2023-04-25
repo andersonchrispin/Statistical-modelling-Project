@@ -1,0 +1,83 @@
+{
+      "results": [
+            {
+                  "distance": 564,
+                  "location": {
+                        "address": "8612 Centrale Rue",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8612 Centrale Rue, Lasalle QC H8P 1N5",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1N5",
+                        "region": "QC"
+                  },
+                  "name": "Capitales Burgers",
+                  "popularity": 0.975160862982589,
+                  "price": 1,
+                  "rating": 7.3
+            },
+            {
+                  "distance": 696,
+                  "location": {
+                        "address": "8760 Lasalle Blvd",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "8760 Lasalle Blvd, Lasalle QC H8P 1Y9",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1Y9",
+                        "region": "QC"
+                  },
+                  "name": "Lasalle Drive-In Restaurant",
+                  "popularity": 0.9857115821347464,
+                  "price": 1,
+                  "rating": 6.4
+            },
+            {
+                  "distance": 561,
+                  "location": {
+                        "address": "8618 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "8618 Centrale Rue, Lasalle QC H8P 1N5",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1N5",
+                        "region": "QC"
+                  },
+                  "name": "Caf\u00e9 et Bistro Luigino'S"
+            },
+            {
+                  "distance": 844,
+                  "location": {
+                        "address": "8300 George Rue",
+                        "country": "CA",
+                        "formatted_address": "8300 George Rue, Lasalle QC H8P 1E5",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1E5",
+                        "region": "QC"
+                  },
+                  "name": "Le Saucier"
+            },
+            {
+                  "distance": 980,
+                  "location": {
+                        "address": "8178 Champlain Blvd",
+                        "country": "CA",
+                        "formatted_address": "8178 Champlain Blvd, Lasalle QC H8P 1B4",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1B4",
+                        "region": "QC"
+                  },
+                  "name": "Bistro Isakaya"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.41631024,
+                              "longitude": -73.61291595
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

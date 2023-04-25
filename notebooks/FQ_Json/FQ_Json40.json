@@ -1,0 +1,96 @@
+{
+      "results": [
+            {
+                  "distance": 39,
+                  "location": {
+                        "address": "278 Elgar Rue",
+                        "country": "CA",
+                        "cross_street": "boul. Ile-des-Soeurs",
+                        "formatted_address": "278 Elgar Rue (boul. Ile-des-Soeurs), Verdun QC H3E 1C9",
+                        "locality": "\u00cele-des-Soeurs",
+                        "postcode": "H3E 1C9",
+                        "region": "QC"
+                  },
+                  "name": "La Socca",
+                  "popularity": 0.9256836676760031,
+                  "price": 3,
+                  "rating": 7.9
+            },
+            {
+                  "distance": 40,
+                  "location": {
+                        "address": "282 Elgar Rue",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "282 Elgar Rue, Montr\u00e9al QC H3E 1C9",
+                        "locality": "Montreal",
+                        "postcode": "H3E 1C9",
+                        "region": "QC"
+                  },
+                  "name": "Pizzeria 5 saveurs pizza",
+                  "popularity": 0.7874952687358062,
+                  "price": 1
+            },
+            {
+                  "distance": 143,
+                  "location": {
+                        "address": "520 Rue de Gasp\u00e9",
+                        "address_extended": "# 110",
+                        "country": "CA",
+                        "formatted_address": "520 Rue de Gasp\u00e9, Verdun QC H3E 1G1",
+                        "locality": "Verdun",
+                        "postcode": "H3E 1G1",
+                        "region": "QC"
+                  },
+                  "name": "Zoneresto"
+            },
+            {
+                  "distance": 234,
+                  "location": {
+                        "address": "675 rue de Gasp\u00e9",
+                        "country": "CA",
+                        "formatted_address": "675 rue de Gasp\u00e9, Verdun QC H3E 1H1",
+                        "locality": "Verdun",
+                        "postcode": "H3E 1H1",
+                        "region": "QC"
+                  },
+                  "name": "Cybele's Cakes"
+            },
+            {
+                  "distance": 287,
+                  "location": {
+                        "address": "515 Francois Rue",
+                        "country": "CA",
+                        "formatted_address": "515 Francois Rue, Verdun QC H3E 1G5",
+                        "locality": "Verdun",
+                        "postcode": "H3E 1G5",
+                        "region": "QC"
+                  },
+                  "name": "Gateau Original"
+            },
+            {
+                  "distance": 355,
+                  "location": {
+                        "address": "200 Rue de Gasp\u00e9",
+                        "address_extended": "# 1211",
+                        "country": "CA",
+                        "formatted_address": "200 Rue de Gasp\u00e9, Verdun QC H3E 1E6",
+                        "locality": "Verdun",
+                        "postcode": "H3E 1E6",
+                        "region": "QC"
+                  },
+                  "name": "Cakestry G&V"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.45682319,
+                              "longitude": -73.54680419
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

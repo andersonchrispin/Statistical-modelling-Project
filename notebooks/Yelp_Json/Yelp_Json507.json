@@ -1,0 +1,865 @@
+{
+      "businesses": [
+            {
+                  "id": "MbSFuId4LsmCrRjYh3soNQ",
+                  "alias": "mr-t-bistro-viet-laval",
+                  "name": "Mr T Bistro Viet",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CjgLE26Cp-42nAQyBe-w-Q/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/mr-t-bistro-viet-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 12,
+                  "categories": [
+                        {
+                              "alias": "vietnamese",
+                              "title": "Vietnamese"
+                        },
+                        {
+                              "alias": "bubbletea",
+                              "title": "Bubble Tea"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.576238,
+                        "longitude": -73.714131
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "595 Boulevard Saint-Martin O",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "595 Boulevard Saint-Martin O",
+                              "Laval, QC H7M 1Y9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506691223",
+                  "display_phone": "+1 450-669-1223",
+                  "distance": 771.495429929342
+            },
+            {
+                  "id": "Hfe559j6SQt6LyVqOLoTAw",
+                  "alias": "farhat-boucherie-et-grillades-laval",
+                  "name": "Farhat Boucherie et Grillades",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A9AXNilAP1RqBv-Kt9jUiA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/farhat-boucherie-et-grillades-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "lebanese",
+                              "title": "Lebanese"
+                        },
+                        {
+                              "alias": "butcher",
+                              "title": "Butcher"
+                        },
+                        {
+                              "alias": "halal",
+                              "title": "Halal"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.5767469694648,
+                        "longitude": -73.7131538971923
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "559 Boulevard Saint-Martin Ouest",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "559 Boulevard Saint-Martin Ouest",
+                              "Laval, QC H7M 1Y9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504904901",
+                  "display_phone": "+1 450-490-4901",
+                  "distance": 683.4720856776705
+            },
+            {
+                  "id": "eqdrdFv4hPBfhiORgBE39g",
+                  "alias": "le-chalutier-laval",
+                  "name": "Le Chalutier",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2VfG8R8cd1hviYJy3dXi_A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-chalutier-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 14,
+                  "categories": [
+                        {
+                              "alias": "newcanadian",
+                              "title": "Canadian (New)"
+                        },
+                        {
+                              "alias": "fishnchips",
+                              "title": "Fish & Chips"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.57526,
+                        "longitude": -73.69712
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "1031 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7G 2V8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1031 Boulevard des Laurentides",
+                              "Laval, QC H7G 2V8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506636471",
+                  "display_phone": "+1 450-663-6471",
+                  "distance": 731.2439428354259
+            },
+            {
+                  "id": "Kv6TgkbjB3kVj_r1A4DVpw",
+                  "alias": "le-saint-andr\u00e9-laval",
+                  "name": "Le Saint-Andr\u00e9",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-saint-andr%C3%A9-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.5742564915672,
+                        "longitude": -73.6938289810172
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "664 Saint-Andr\u00e9",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7G 3A5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "664 Saint-Andr\u00e9",
+                              "Laval, QC H7G 3A5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506638039",
+                  "display_phone": "+1 450-663-8039",
+                  "distance": 1006.1817140299919
+            },
+            {
+                  "id": "J97FcFnZZpXB3cCIN73dlQ",
+                  "alias": "restaurant-palace-minh-laval",
+                  "name": "Restaurant Palace Minh",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-90zYWKF1H5IO7BwdgnERw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/restaurant-palace-minh-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "vietnamese",
+                              "title": "Vietnamese"
+                        },
+                        {
+                              "alias": "asianfusion",
+                              "title": "Asian Fusion"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.58102,
+                        "longitude": -73.70358
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1585 Boulevard des Laurentides",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 4Y6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1585 Boulevard des Laurentides",
+                              "Laval, QC H7N 4Y6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509337999",
+                  "display_phone": "+1 450-933-7999",
+                  "distance": 261.7618786309699
+            },
+            {
+                  "id": "Q_OQrwcq_fsdIVoTZrmhfA",
+                  "alias": "l-oeuficiel-laval",
+                  "name": "L'Oeuficiel",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1n7N2xBTGYeepJ2rZF5EMQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/l-oeuficiel-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "coffee",
+                              "title": "Coffee & Tea"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5726,
+                        "longitude": -73.69495
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "670 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7G 4S6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "670 Boulevard des Laurentides",
+                              "Laval, QC H7G 4S6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506694410",
+                  "display_phone": "+1 450-669-4410",
+                  "distance": 1037.7014788908584
+            },
+            {
+                  "id": "XENtAQAo3s4_fMUcNCEKxw",
+                  "alias": "dolce-and-santella-laval",
+                  "name": "Dolce & Santella",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2V-PzH3X89jkd4RIb1NqTw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/dolce-and-santella-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "icecream",
+                              "title": "Ice Cream & Frozen Yogurt"
+                        },
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.571620441978666,
+                        "longitude": -73.6931637167548
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "545 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7G 2V3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "545 Boulevard des Laurentides",
+                              "Laval, QC H7G 2V3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509335725",
+                  "display_phone": "+1 450-933-5725",
+                  "distance": 1221.8826243842382
+            },
+            {
+                  "id": "PtBYoyHs9P3SNG-8G8-EGw",
+                  "alias": "le-pirate-de-laval-laval",
+                  "name": "Le Pirate de Laval",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_ssDoOKZfdk_xwZ3Gc6KVg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-pirate-de-laval-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 9,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "seafood",
+                              "title": "Seafood"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.5734551713231,
+                        "longitude": -73.6961740627885
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "802 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7G 2V9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "802 Boulevard des Laurentides",
+                              "Laval, QC H7G 2V9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506680780",
+                  "display_phone": "+1 450-668-0780",
+                  "distance": 911.2091494368109
+            },
+            {
+                  "id": "tJTSEenas0AkLVh2Dj_pUw",
+                  "alias": "patulli-pizza-mobile-laval",
+                  "name": "Patulli Pizza Mobile",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oXuCSrmF2p1ZrYDA6XxeDw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/patulli-pizza-mobile-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "catering",
+                              "title": "Caterers"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.57223,
+                        "longitude": -73.70473
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 4G1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "Laval, QC H7N 4G1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "",
+                  "display_phone": "",
+                  "distance": 594.4268149204477
+            },
+            {
+                  "id": "hqSgVJUBj4vlP9EvfPuyxQ",
+                  "alias": "la-vita-laval-pont-viau",
+                  "name": "La Vita",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D1Eqk9E6933j-F-yZlFD2A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/la-vita-laval-pont-viau?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.5753568,
+                        "longitude": -73.6977717
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "1039 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval, Pont Viau",
+                        "zip_code": "H7G 2W2",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1039 Boulevard des Laurentides",
+                              "Laval, Pont Viau, QC H7G 2W2",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509339881",
+                  "display_phone": "+1 450-933-9881",
+                  "distance": 682.0036853773277
+            },
+            {
+                  "id": "m-eWUJ433Re_1BqXW41RuA",
+                  "alias": "d\u00e9lice-antillais-laval",
+                  "name": "D\u00e9lice Antillais",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jWXvBi1SXK7ZGcwNDbZRxg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/d%C3%A9lice-antillais-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "cajun",
+                              "title": "Cajun/Creole"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.577587,
+                        "longitude": -73.7122
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "437 Boulevard Saint-Martin O",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "437 Boulevard Saint-Martin O",
+                              "Laval, QC H7M 1Y8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504904882",
+                  "display_phone": "+1 450-490-4882",
+                  "distance": 584.4894920119597
+            },
+            {
+                  "id": "j_JT4_hyo4yqoamnlpOjaw",
+                  "alias": "tamashi-laval-2",
+                  "name": "Tamashi",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IuuDH04m1_VvaearJbj1wA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/tamashi-laval-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 13,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        },
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.58122,
+                        "longitude": -73.70395
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "1595 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 4Y6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1595 Boulevard des Laurentides",
+                              "Laval, QC H7N 4Y6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509800298",
+                  "display_phone": "+1 450-980-0298",
+                  "distance": 266.51293628302614
+            },
+            {
+                  "id": "zFy_wy9zy5D0lr2HNDx7mw",
+                  "alias": "kam-shing-laval",
+                  "name": "Kam Shing",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M4ksQeQgQHumnPyP9yMShQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/kam-shing-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 31,
+                  "categories": [
+                        {
+                              "alias": "chinese",
+                              "title": "Chinese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.576575,
+                        "longitude": -73.713509
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "575 Boulevard Saint-Martin O",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "575 Boulevard Saint-Martin O",
+                              "Laval, QC H7M 1Y9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506698988",
+                  "display_phone": "+1 450-669-8988",
+                  "distance": 716.1011511309781
+            },
+            {
+                  "id": "9GFxVMxjDM47bjTVG7Hrxw",
+                  "alias": "scores-laval-4",
+                  "name": "R\u00f4tisserie St-Hubert",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1m9zpwDRGVKKpiLpki-3MA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/scores-laval-4?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 9,
+                  "categories": [
+                        {
+                              "alias": "chickenshop",
+                              "title": "Chicken Shop"
+                        },
+                        {
+                              "alias": "burgers",
+                              "title": "Burgers"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.58162431470601,
+                        "longitude": -73.70450378611112
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "1111 Boulevard Des Laurentides",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7N 5B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1111 Boulevard Des Laurentides",
+                              "Laval, QC H7N 5B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506295144",
+                  "display_phone": "+1 450-629-5144",
+                  "distance": 392.37791902328956
+            },
+            {
+                  "id": "HKBmxJE8Uvh5x_qD-KK9jQ",
+                  "alias": "le-restaurant-makoto-sushi-laval",
+                  "name": "Le Restaurant Makoto Sushi",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vvk5BwENbQYG8QqMqKaPkw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-restaurant-makoto-sushi-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 5,
+                  "categories": [
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        },
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.5767059,
+                        "longitude": -73.7127304
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "525 Blvd St. Martin Ouest",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "525 Blvd St. Martin Ouest",
+                              "Laval, QC H7M 1Y8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506683331",
+                  "display_phone": "+1 450-668-3331",
+                  "distance": 645.4581356941034
+            },
+            {
+                  "id": "wuEmc5_t3vnbM_qnROKG_A",
+                  "alias": "ristorante-meridiana-laval-3",
+                  "name": "Ristorante Meridiana",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rEXTPuVoHur5vnMjrecEAQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/ristorante-meridiana-laval-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 10,
+                  "categories": [
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        },
+                        {
+                              "alias": "portuguese",
+                              "title": "Portuguese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.575809,
+                        "longitude": -73.7126295
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "500 Boulevard Saint-Martin O",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7M 3Y2",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "500 Boulevard Saint-Martin O",
+                              "Laval, QC H7M 3Y2",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14509757555",
+                  "display_phone": "+1 450-975-7555",
+                  "distance": 690.8637094926867
+            },
+            {
+                  "id": "haYOZVk3FyNoGGJIZlUhUA",
+                  "alias": "kazoku-sushi-laval",
+                  "name": "Kazoku Sushi",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yuWGCXTVRNRu7pZT0M2brA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/kazoku-sushi-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 2,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        },
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.57760213869617,
+                        "longitude": -73.69965447055225
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1087 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7G 2W2",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1087 Boulevard des Laurentides",
+                              "Laval, QC H7G 2W2",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504901720",
+                  "display_phone": "+1 450-490-1720",
+                  "distance": 434.89882402411126
+            },
+            {
+                  "id": "ZuOoZkkuErUxH-WM5Uq8bQ",
+                  "alias": "eggsquis-laval",
+                  "name": "Eggsquis",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0f-jQrOLfLaAXrIbztFFqg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/eggsquis-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        },
+                        {
+                              "alias": "creperies",
+                              "title": "Creperies"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.582240380926095,
+                        "longitude": -73.70747524404118
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1760 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Laval",
+                        "zip_code": "H7M 2Y4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1760 Boulevard des Laurentides",
+                              "Laval, QC H7M 2Y4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14504907788",
+                  "display_phone": "+1 450-490-7788",
+                  "distance": 421.3320529506705
+            },
+            {
+                  "id": "3cPBLYWfaxRvR1_1id0psg",
+                  "alias": "l-eggspress-laval",
+                  "name": "L'Eggspress",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A2RBYj1z040AkWDQH7iWew/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/l-eggspress-laval?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 4,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.57605,
+                        "longitude": -73.71431
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "615 Boulevard Saint-Martin Ouest",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7M 1Y9",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "615 Boulevard Saint-Martin Ouest",
+                              "Laval, QC H7M 1Y9",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506626939",
+                  "display_phone": "+1 450-662-6939",
+                  "distance": 841.5567153432793
+            },
+            {
+                  "id": "rMtkRqn2zCCC2mJCU-5i0g",
+                  "alias": "subway-laval-16",
+                  "name": "Subway",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-laval-16?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.57999,
+                        "longitude": -73.7028
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "1521 Boulevard des Laurentides",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Laval",
+                        "zip_code": "H7N 4Y6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "1521 Boulevard des Laurentides",
+                              "Laval, QC H7N 4Y6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14506673663",
+                  "display_phone": "+1 450-667-3663",
+                  "distance": 205.07718036752996
+            }
+      ],
+      "total": 39,
+      "region": {
+            "center": {
+                  "longitude": -73.70492712,
+                  "latitude": 45.5788972
+            }
+      }
+}

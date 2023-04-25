@@ -1,0 +1,114 @@
+{
+      "results": [
+            {
+                  "distance": 919,
+                  "location": {
+                        "address": "364 Rue de la Commune Est",
+                        "country": "CA",
+                        "cross_street": "Vieux-Port de Montr\u00e9al",
+                        "formatted_address": "364 Rue de la Commune Est (Vieux-Port de Montr\u00e9al), Montr\u00e9al QC H2Y 0B4",
+                        "locality": "Montreal",
+                        "postcode": "H2Y 0B4",
+                        "region": "QC"
+                  },
+                  "name": "Terrasses Bonsecours",
+                  "popularity": 0.9433785957607873,
+                  "price": 2,
+                  "rating": 6.6
+            },
+            {
+                  "distance": 401,
+                  "location": {
+                        "address": "22 MacDonald Ch",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "22 MacDonald Ch, Montr\u00e9al QC H3C 6A3",
+                        "locality": "Montreal",
+                        "postcode": "H3C 6A3",
+                        "region": "QC"
+                  },
+                  "name": "Le Ste-Helene",
+                  "popularity": 0.8294142694928085
+            },
+            {
+                  "distance": 526,
+                  "location": {
+                        "address": "200 Ch du Tour-de-d'\u00eesle",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "200 Ch du Tour-de-d'\u00eesle, Montr\u00e9al QC H3C 4G8",
+                        "locality": "Montreal",
+                        "postcode": "H3C 4G8",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant H\u00e9l\u00e8ne de Champlain",
+                  "popularity": 0.840852100681302,
+                  "price": 2
+            },
+            {
+                  "distance": 999,
+                  "location": {
+                        "address": "362 rue de la Commune Est",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "362 rue de la Commune Est, Montr\u00e9al QC H2Y 0B4",
+                        "locality": "Montreal",
+                        "postcode": "H2Y 0B4",
+                        "region": "QC"
+                  },
+                  "name": "La Grande Roue de Montr\u00e9al",
+                  "popularity": 0.9322246404239213,
+                  "price": 1
+            },
+            {
+                  "distance": 893,
+                  "location": {
+                        "address": "1500 Notre-Dame Rue E",
+                        "country": "CA",
+                        "formatted_address": "1500 Notre-Dame Rue E, Montreal QC H2L 2R4",
+                        "locality": "Montreal",
+                        "postcode": "H2L 2R4",
+                        "region": "QC"
+                  },
+                  "name": "Molson Canada"
+            },
+            {
+                  "distance": 985,
+                  "location": {
+                        "address": "22 MacDonald Ch",
+                        "address_extended": "Ile Sainte-Helene La Ronde Amusement Park",
+                        "country": "CA",
+                        "formatted_address": "22 MacDonald Ch, Montreal QC H3C 6A3",
+                        "locality": "Montreal",
+                        "postcode": "H3C 6A3",
+                        "region": "QC"
+                  },
+                  "name": "Subway",
+                  "store_id": "Restaurant #19723"
+            },
+            {
+                  "distance": 985,
+                  "location": {
+                        "address": "22 MacDonald Rd Ile Sainte Helene",
+                        "country": "CA",
+                        "formatted_address": "22 MacDonald Rd Ile Sainte Helene, Montreal QC H3C 6A3",
+                        "locality": "Montreal",
+                        "postcode": "H3C 6A3",
+                        "region": "QC"
+                  },
+                  "name": "Subway",
+                  "store_id": "19723"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.51366626,
+                              "longitude": -73.53842497
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

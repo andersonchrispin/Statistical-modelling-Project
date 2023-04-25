@@ -1,0 +1,108 @@
+{
+      "results": [
+            {
+                  "distance": 740,
+                  "location": {
+                        "address": "78 Centrale Rue",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "78 Centrale Rue, Lasalle QC H8R 2J3",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 2J3",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Habanos",
+                  "popularity": 0.8980057721423165,
+                  "price": 2
+            },
+            {
+                  "distance": 741,
+                  "location": {
+                        "address": "662 90e Ave",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "662 90e Ave, Lasalle QC H8R 3A1",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 3A1",
+                        "region": "QC"
+                  },
+                  "name": "V-Lounge Lasalle",
+                  "popularity": 0.9272095003785011,
+                  "price": 3
+            },
+            {
+                  "distance": 854,
+                  "location": {
+                        "address": "9150 Airlie Rue",
+                        "country": "CA",
+                        "cross_street": "",
+                        "formatted_address": "9150 Airlie Rue, Lasalle QC H8R 2A5",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 2A5",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant du Quebec la Shish",
+                  "popularity": 0.8694407645722937,
+                  "price": 2
+            },
+            {
+                  "distance": 677,
+                  "location": {
+                        "address": "620 90e Ave",
+                        "country": "CA",
+                        "formatted_address": "620 90e Ave, Lasalle QC H8R 3A1",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 3A1",
+                        "region": "QC"
+                  },
+                  "name": "Buffalo Bill Wings"
+            },
+            {
+                  "distance": 734,
+                  "location": {
+                        "address": "85 Lafleur Ave",
+                        "country": "CA",
+                        "formatted_address": "85 Lafleur Ave, Lasalle QC H8R 3G8",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 3G8",
+                        "region": "QC"
+                  },
+                  "name": "Culinaria Lasalle"
+            },
+            {
+                  "distance": 855,
+                  "location": {
+                        "address": "9150 Airlie Rue",
+                        "country": "CA",
+                        "formatted_address": "9150 Airlie Rue, Lasalle QC H8R 2A5",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 2A5",
+                        "region": "QC"
+                  },
+                  "name": "El Jalapeno"
+            },
+            {
+                  "distance": 872,
+                  "location": {
+                        "address": "9160 Airlie Rue",
+                        "country": "CA",
+                        "formatted_address": "9160 Airlie Rue, Lasalle QC H8R 0C5",
+                        "locality": "Lasalle",
+                        "postcode": "H8R 0C5",
+                        "region": "QC"
+                  },
+                  "name": "Bar l'Excuse"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.41774584,
+                              "longitude": -73.64518762
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

@@ -1,0 +1,86 @@
+{
+      "results": [
+            {
+                  "distance": 89,
+                  "location": {
+                        "address": "1696 Crawford Rue",
+                        "country": "CA",
+                        "formatted_address": "1696 Crawford Rue, Verdun QC H4H 2N9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 2N9",
+                        "region": "QC"
+                  },
+                  "name": "Keough Kakes Bakery"
+            },
+            {
+                  "distance": 730,
+                  "location": {
+                        "address": "7546 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "7546 Centrale Rue, Lasalle QC H8P 1K3",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1K3",
+                        "region": "QC"
+                  },
+                  "name": "Le Bronx Grill"
+            },
+            {
+                  "distance": 904,
+                  "location": {
+                        "address": "7610 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "7610 Centrale Rue, Lasalle QC H8P 1K9",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Centrale Pizzeria"
+            },
+            {
+                  "distance": 915,
+                  "location": {
+                        "address": "7610 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "7610 Centrale Rue, Montreal QC",
+                        "locality": "Montreal",
+                        "region": "QC"
+                  },
+                  "name": "Centrales"
+            },
+            {
+                  "distance": 930,
+                  "location": {
+                        "address": "7624 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "7624 Centrale Rue, Lasalle QC H8P 1K9",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Central 75"
+            },
+            {
+                  "distance": 941,
+                  "location": {
+                        "address": "7624 Centrale Rue",
+                        "country": "CA",
+                        "formatted_address": "7624 Centrale Rue, Lasalle QC H8P 1K9",
+                        "locality": "Lasalle",
+                        "postcode": "H8P 1K9",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Kim"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.43914465,
+                              "longitude": -73.59173656
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

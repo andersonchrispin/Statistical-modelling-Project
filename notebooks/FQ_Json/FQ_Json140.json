@@ -1,0 +1,53 @@
+{
+      "results": [
+            {
+                  "distance": 983,
+                  "location": {
+                        "address": "6425 Leger Blvd",
+                        "country": "CA",
+                        "cross_street": "Langelier",
+                        "formatted_address": "6425 Leger Blvd (Langelier), Montr\u00e9al QC H1G 6J7",
+                        "locality": "Montreal",
+                        "postcode": "H1G 6J7",
+                        "region": "QC"
+                  },
+                  "name": "Monsieur shawarma",
+                  "popularity": 0.8482328728236185
+            },
+            {
+                  "distance": 149,
+                  "location": {
+                        "address": "7095 Gouin Blvd E",
+                        "country": "CA",
+                        "formatted_address": "7095 Gouin Blvd E, Montreal QC H1E 6N1",
+                        "locality": "Montreal",
+                        "postcode": "H1E 6N1",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Casa Mia"
+            },
+            {
+                  "distance": 917,
+                  "location": {
+                        "address": "6425 Leger Blvd",
+                        "country": "CA",
+                        "formatted_address": "6425 Leger Blvd, Montreal-Nord QC H1G 6J7",
+                        "locality": "Montreal-Nord",
+                        "postcode": "H1G 6J7",
+                        "region": "QC"
+                  },
+                  "name": "Basha"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.6313127,
+                              "longitude": -73.61631498
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

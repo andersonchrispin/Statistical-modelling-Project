@@ -1,0 +1,39 @@
+{
+      "results": [
+            {
+                  "distance": 817,
+                  "location": {
+                        "address": "1696 Crawford Rue",
+                        "country": "CA",
+                        "formatted_address": "1696 Crawford Rue, Verdun QC H4H 2N9",
+                        "locality": "Verdun",
+                        "postcode": "H4H 2N9",
+                        "region": "QC"
+                  },
+                  "name": "Keough Kakes Bakery"
+            },
+            {
+                  "distance": 965,
+                  "location": {
+                        "address": "6300 Beurling Rue",
+                        "country": "CA",
+                        "formatted_address": "6300 Beurling Rue, Verdun QC H4H 1C8",
+                        "locality": "Verdun",
+                        "postcode": "H4H 1C8",
+                        "region": "QC"
+                  },
+                  "name": "Les Grands Burlesques"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.43791517,
+                              "longitude": -73.58253551
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}

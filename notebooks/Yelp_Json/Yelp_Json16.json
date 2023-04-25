@@ -1,0 +1,755 @@
+{
+      "businesses": [
+            {
+                  "id": "uY6tR23m8LhYSUMO5_WMQg",
+                  "alias": "bananier-verdun",
+                  "name": "Bananier",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Wbs9LyiqFnx9i5ivnx7lrA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/bananier-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.468831723328,
+                        "longitude": -73.5416652395715
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "8 Place du Commerce",
+                        "address2": "#100",
+                        "address3": null,
+                        "city": "Verdun",
+                        "zip_code": "H3E 1N3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "8 Place du Commerce",
+                              "#100",
+                              "Verdun, QC H3E 1N3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147681888",
+                  "display_phone": "+1 514-768-1888",
+                  "distance": 201.46012952827348
+            },
+            {
+                  "id": "iWX5qYVWIIUhQSrNgdiFhw",
+                  "alias": "gourmand-and-co-montr\u00e9al",
+                  "name": "Gourmand & Co",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bp3Ef-E_DDlAZdmT9ZPTeA/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/gourmand-and-co-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "catering",
+                              "title": "Caterers"
+                        },
+                        {
+                              "alias": "salad",
+                              "title": "Salad"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.4688949944214,
+                        "longitude": -73.5421143120773
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "4 Place du Commerce",
+                        "address2": "Local 110",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3E 1J4",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "4 Place du Commerce",
+                              "Local 110",
+                              "Montreal, QC H3E 1J4",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147662233",
+                  "display_phone": "+1 514-766-2233",
+                  "distance": 198.64062791858802
+            },
+            {
+                  "id": "H8sWCbwt001U6kKDCN4G2g",
+                  "alias": "basilico-montr\u00e9al",
+                  "name": "Basilico",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/L0C2WKSXgDwD9MyCPjRg8g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/basilico-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "italian",
+                              "title": "Italian"
+                        }
+                  ],
+                  "rating": 5.0,
+                  "coordinates": {
+                        "latitude": 45.468446598061966,
+                        "longitude": -73.54302200192535
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "7 Pl. du Commerce",
+                        "address2": "Unit 104",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3E 2B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "7 Pl. du Commerce",
+                              "Unit 104",
+                              "Montreal, QC H3E 2B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147667777",
+                  "display_phone": "+1 514-766-7777",
+                  "distance": 149.14152722956945
+            },
+            {
+                  "id": "mcWefQqWoyWgZC-1t90z2A",
+                  "alias": "tha\u00ef-express-montr\u00e9al-47",
+                  "name": "Tha\u00ef Express",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UjWKE4BGHWEzhx-d8ZwRmw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/tha%C3%AF-express-montr%C3%A9al-47?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "thai",
+                              "title": "Thai"
+                        }
+                  ],
+                  "rating": 4.5,
+                  "coordinates": {
+                        "latitude": 45.4675182651033,
+                        "longitude": -73.5422893316714
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "38 Place du Commercea",
+                        "address2": "Suite 14",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3E 1T8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "38 Place du Commercea",
+                              "Suite 14",
+                              "Montreal, QC H3E 1T8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15144192816",
+                  "display_phone": "+1 514-419-2816",
+                  "distance": 48.15491071550126
+            },
+            {
+                  "id": "joJ2ovL1qz6iRpVvl4F7qA",
+                  "alias": "le-petit-sao-montreal-3",
+                  "name": "Le Petit Sao",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nI2RDLxAlE66OLsZ8-zrIw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-petit-sao-montreal-3?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 17,
+                  "categories": [
+                        {
+                              "alias": "vietnamese",
+                              "title": "Vietnamese"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.46672871082185,
+                        "longitude": -73.54246339999999
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "40 Place du Commerce",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Montreal",
+                        "zip_code": "H3E 1J6",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "40 Place du Commerce",
+                              "Montreal, QC H3E 1J6",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14383333888",
+                  "display_phone": "+1 438-333-3888",
+                  "distance": 46.78671907208492
+            },
+            {
+                  "id": "Vkl5QgIfpi6fS-Xox1EOug",
+                  "alias": "les-enfants-terribles-l-\u00eele-des-s\u0153urs",
+                  "name": "Les Enfants Terribles",
+                  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GZ-Il-XE7AaG06Tek5BEEg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/les-enfants-terribles-l-%C3%AEle-des-s%C5%93urs?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 46,
+                  "categories": [
+                        {
+                              "alias": "newcanadian",
+                              "title": "Canadian (New)"
+                        },
+                        {
+                              "alias": "french",
+                              "title": "French"
+                        },
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.5,
+                  "coordinates": {
+                        "latitude": 45.4728914878346,
+                        "longitude": -73.537893609787
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "209 Rue de la Rotonde",
+                        "address2": "",
+                        "address3": "",
+                        "city": "L'\u00cele-des-S\u0153urs",
+                        "zip_code": "H3E 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "209 Rue de la Rotonde",
+                              "L'\u00cele-des-S\u0153urs, QC H3E 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15145086068",
+                  "display_phone": "+1 514-508-6068",
+                  "distance": 736.9684862888068
+            },
+            {
+                  "id": "mPuJAD2dEw3Wax-JlUnEBw",
+                  "alias": "sushi-shop-\u00eele-des-soeurs-2",
+                  "name": "Sushi Shop",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MCi9Wc2cEJlqTN1Hlre43w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/sushi-shop-%C3%AEle-des-soeurs-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        },
+                        {
+                              "alias": "poke",
+                              "title": "Poke"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.46845,
+                        "longitude": -73.54306
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "7 Place du Commerce",
+                        "address2": "",
+                        "address3": "",
+                        "city": "\u00cele-des-Soeurs",
+                        "zip_code": "H3E 2B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "7 Place du Commerce",
+                              "\u00cele-des-Soeurs, QC H3E 2B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147686887",
+                  "display_phone": "+1 514-768-6887",
+                  "distance": 161.69265298834605
+            },
+            {
+                  "id": "5gUZZyhiYxy_sNQVDJ7_NQ",
+                  "alias": "ben-and-florentine-verdun-2",
+                  "name": "Ben & Florentine",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YcYzNHHkySQ-tn_09H6W0g/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/ben-and-florentine-verdun-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 8,
+                  "categories": [
+                        {
+                              "alias": "breakfast_brunch",
+                              "title": "Breakfast & Brunch"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.467888,
+                        "longitude": -73.548366
+                  },
+                  "transactions": [],
+                  "price": "$$",
+                  "location": {
+                        "address1": "300 Chemin du Golf",
+                        "address2": null,
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 1A8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "300 Chemin du Golf",
+                              "Verdun, QC H3E 1A8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+14383873738",
+                  "display_phone": "+1 438-387-3738",
+                  "distance": 458.0413469526791
+            },
+            {
+                  "id": "r19Si8oGMWLFK0edtUkCKw",
+                  "alias": "le-vin-le-vain-verdun",
+                  "name": "Le Vin-Le Vain",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/le-vin-le-vain-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 1,
+                  "categories": [
+                        {
+                              "alias": "restaurants",
+                              "title": "Restaurants"
+                        }
+                  ],
+                  "rating": 4.0,
+                  "coordinates": {
+                        "latitude": 45.46845,
+                        "longitude": -73.54306
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "7 Du Commerce Place",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 2B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "7 Du Commerce Place",
+                              "Verdun, QC H3E 2B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147670966",
+                  "display_phone": "+1 514-767-0966",
+                  "distance": 158.86292779659288
+            },
+            {
+                  "id": "pgSgmOpX2apPcMCfks5ulw",
+                  "alias": "umi-sushi-verdun",
+                  "name": "Umi Sushi",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XBjN0ekAZisnilMuqos_XQ/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/umi-sushi-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 16,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        },
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.467604,
+                        "longitude": -73.5416
+                  },
+                  "transactions": [],
+                  "price": "$$$",
+                  "location": {
+                        "address1": "38 Place du Commerce",
+                        "address2": "Suite 9",
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 1T8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "38 Place du Commerce",
+                              "Suite 9",
+                              "Verdun, QC H3E 1T8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147698288",
+                  "display_phone": "+1 514-769-8288",
+                  "distance": 92.85608338091774
+            },
+            {
+                  "id": "Uc3voxXeD33g0J3hHyMJ2g",
+                  "alias": "second-cup-verdun",
+                  "name": "Second Cup",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LutF-V_w7X1hLdn_OYsmHg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/second-cup-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 4,
+                  "categories": [
+                        {
+                              "alias": "coffee",
+                              "title": "Coffee & Tea"
+                        },
+                        {
+                              "alias": "cafes",
+                              "title": "Cafes"
+                        }
+                  ],
+                  "rating": 3.0,
+                  "coordinates": {
+                        "latitude": 45.46808902750556,
+                        "longitude": -73.5433
+                  },
+                  "transactions": [],
+                  "price": "$",
+                  "location": {
+                        "address1": "7 Place du Commerce",
+                        "address2": "Suite 101",
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 2B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "7 Place du Commerce",
+                              "Suite 101",
+                              "Verdun, QC H3E 2B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147692992",
+                  "display_phone": "+1 514-769-2992",
+                  "distance": 119.16997797938441
+            },
+            {
+                  "id": "VBCR0KKjFfzfcvV36KnkhA",
+                  "alias": "amir-verdun",
+                  "name": "Amir",
+                  "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FVmLMsPLgpK0ewBCK_Bg1Q/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/amir-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 6,
+                  "categories": [
+                        {
+                              "alias": "mideastern",
+                              "title": "Middle Eastern"
+                        }
+                  ],
+                  "rating": 2.5,
+                  "coordinates": {
+                        "latitude": 45.46755,
+                        "longitude": -73.54138
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "38 Place du Commerce",
+                        "address2": "Bureau 3",
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 1T8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "38 Place du Commerce",
+                              "Bureau 3",
+                              "Verdun, QC H3E 1T8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147320550",
+                  "display_phone": "+1 514-732-0550",
+                  "distance": 90.88541216405338
+            },
+            {
+                  "id": "rewSVTEAlylfK0qFV57lsQ",
+                  "alias": "montr\u00e9al-masala-montr\u00e9al",
+                  "name": "Montr\u00e9al Masala",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ernsbs_qLXeK4CTWXdWYQw/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/montr%C3%A9al-masala-montr%C3%A9al?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "indpak",
+                              "title": "Indian"
+                        }
+                  ],
+                  "rating": 2.5,
+                  "coordinates": {
+                        "latitude": 45.4681166189312,
+                        "longitude": -73.5432565190491
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "7 Place du Commerce",
+                        "address2": "Unit 102",
+                        "address3": null,
+                        "city": "Montreal",
+                        "zip_code": "H3E 2B5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "7 Place du Commerce",
+                              "Unit 102",
+                              "Montreal, QC H3E 2B5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147688833",
+                  "display_phone": "+1 514-768-8833",
+                  "distance": 120.3928438850859
+            },
+            {
+                  "id": "YghwGgNPT-76or74_R0TnQ",
+                  "alias": "nagomi-verdun",
+                  "name": "Nagomi",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/um4MWTPNQikyQy50HExY3w/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/nagomi-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 3,
+                  "categories": [
+                        {
+                              "alias": "japanese",
+                              "title": "Japanese"
+                        }
+                  ],
+                  "rating": 2.5,
+                  "coordinates": {
+                        "latitude": 45.472915,
+                        "longitude": -73.539458
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "103 Rue Jacques-le Ber",
+                        "address2": "",
+                        "address3": null,
+                        "city": "Verdun",
+                        "zip_code": "H3E 1Y1",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "103 Rue Jacques-le Ber",
+                              "Verdun, QC H3E 1Y1",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147611888",
+                  "display_phone": "+1 514-761-1888",
+                  "distance": 687.026148935524
+            },
+            {
+                  "id": "qGbgdyWZJX-hjXSiMr3P-Q",
+                  "alias": "subway-nuns-island",
+                  "name": "Subway",
+                  "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xWw-dNqqFioBDOjb6gEN8A/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/subway-nuns-island?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 5,
+                  "categories": [
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        },
+                        {
+                              "alias": "hotdogs",
+                              "title": "Fast Food"
+                        }
+                  ],
+                  "rating": 1.5,
+                  "coordinates": {
+                        "latitude": 45.4690438493398,
+                        "longitude": -73.5417029901203
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "8 Place du Commerce",
+                        "address2": "Suite 101",
+                        "address3": "",
+                        "city": "Nun's Island",
+                        "zip_code": "H3E 1N3",
+                        "country": "CA",
+                        "state": "BC",
+                        "display_address": [
+                              "8 Place du Commerce",
+                              "Suite 101",
+                              "Nun's Island, BC H3E 1N3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147324242",
+                  "display_phone": "+1 514-732-4242",
+                  "distance": 222.7120605273894
+            },
+            {
+                  "id": "Yxa0K0IccZ9K96H9l_UJBg",
+                  "alias": "bento-sushi-verdun",
+                  "name": "Bento Sushi",
+                  "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SZNrbXfuvEtp6IjCPLMdtg/o.jpg",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/bento-sushi-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "sushi",
+                              "title": "Sushi Bars"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.46689,
+                        "longitude": -73.54353
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "42 Place du Commerce",
+                        "address2": "",
+                        "address3": "Provigo",
+                        "city": "Verdun",
+                        "zip_code": "H3E 1J5",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "42 Place du Commerce",
+                              "Provigo",
+                              "Verdun, QC H3E 1J5",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "",
+                  "display_phone": "",
+                  "distance": 118.63235104976984
+            },
+            {
+                  "id": "M8Y8oqi6gMqPbf4u6O5jWQ",
+                  "alias": "dominos-pizza-verdun-2",
+                  "name": "Domino's Pizza",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/dominos-pizza-verdun-2?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        },
+                        {
+                              "alias": "chicken_wings",
+                              "title": "Chicken Wings"
+                        },
+                        {
+                              "alias": "sandwiches",
+                              "title": "Sandwiches"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.46755,
+                        "longitude": -73.54138
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "38 PLACE DU COMMERCE",
+                        "address2": null,
+                        "address3": null,
+                        "city": "VERDUN",
+                        "zip_code": "H3E 1T8",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "38 PLACE DU COMMERCE",
+                              "VERDUN, QC H3E 1T8",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147679999",
+                  "display_phone": "+1 514-767-9999",
+                  "distance": 90.88541216405338
+            },
+            {
+                  "id": "S0hT2Gi4Tapf8B8UTYfjzw",
+                  "alias": "pizza-mama-verdun",
+                  "name": "Pizza Mama",
+                  "image_url": "",
+                  "is_closed": false,
+                  "url": "https://www.yelp.com/biz/pizza-mama-verdun?adjust_creative=DDOLgNZllWHhOhr3P5a1xQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=DDOLgNZllWHhOhr3P5a1xQ",
+                  "review_count": 0,
+                  "categories": [
+                        {
+                              "alias": "pizza",
+                              "title": "Pizza"
+                        }
+                  ],
+                  "rating": 0.0,
+                  "coordinates": {
+                        "latitude": 45.46704,
+                        "longitude": -73.54791
+                  },
+                  "transactions": [],
+                  "location": {
+                        "address1": "301 Du Golf Ch",
+                        "address2": "",
+                        "address3": "",
+                        "city": "Verdun",
+                        "zip_code": "H3E 1B3",
+                        "country": "CA",
+                        "state": "QC",
+                        "display_address": [
+                              "301 Du Golf Ch",
+                              "Verdun, QC H3E 1B3",
+                              "Canada"
+                        ]
+                  },
+                  "phone": "+15147659626",
+                  "display_phone": "+1 514-765-9626",
+                  "distance": 393.01871524471125
+            }
+      ],
+      "total": 18,
+      "region": {
+            "center": {
+                  "longitude": -73.54259,
+                  "latitude": 45.46714
+            }
+      }
+}

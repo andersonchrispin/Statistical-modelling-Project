@@ -1,0 +1,75 @@
+{
+      "results": [
+            {
+                  "distance": 314,
+                  "location": {
+                        "address": "12820 Notre Dame Rue E",
+                        "country": "CA",
+                        "formatted_address": "12820 Notre Dame Rue E, Pointe-Aux-Trembles QC H1A 1R9",
+                        "locality": "Pointe-Aux-Trembles",
+                        "postcode": "H1A 1R9",
+                        "region": "QC"
+                  },
+                  "name": "Bistro du Jardin"
+            },
+            {
+                  "distance": 315,
+                  "location": {
+                        "address": "12820 Notre Dame Rue E",
+                        "country": "CA",
+                        "formatted_address": "12820 Notre Dame Rue E, Pointe-Aux-Trembles QC H1A 1R9",
+                        "locality": "Pointe-Aux-Trembles",
+                        "postcode": "H1A 1R9",
+                        "region": "QC"
+                  },
+                  "name": "Bistro Jardin"
+            },
+            {
+                  "distance": 682,
+                  "location": {
+                        "address": "52-C Rue de la Gaucheti\u00e8re O",
+                        "country": "CA",
+                        "formatted_address": "52-C Rue de la Gaucheti\u00e8re O, Montreal QC H2Z 1C1",
+                        "locality": "Montreal",
+                        "postcode": "H2Z 1C1",
+                        "region": "QC"
+                  },
+                  "name": "Chatime"
+            },
+            {
+                  "distance": 814,
+                  "location": {
+                        "address": "12700 Rue de Montigny",
+                        "country": "CA",
+                        "formatted_address": "12700 Rue de Montigny, Montreal QC H1A 0A1",
+                        "locality": "Montreal",
+                        "postcode": "H1A 0A1",
+                        "region": "QC"
+                  },
+                  "name": "Karaoke Maniac"
+            },
+            {
+                  "distance": 818,
+                  "location": {
+                        "address": "1329 Suite",
+                        "country": "CA",
+                        "formatted_address": "1329 Suite, Montreal QC H1A 0A1",
+                        "locality": "Montreal",
+                        "postcode": "H1A 0A1",
+                        "region": "QC"
+                  },
+                  "name": "Restaurant Tabla"
+            }
+      ],
+      "context": {
+            "geo_bounds": {
+                  "circle": {
+                        "center": {
+                              "latitude": 45.64954588,
+                              "longitude": -73.49191546
+                        },
+                        "radius": 1000
+                  }
+            }
+      }
+}
